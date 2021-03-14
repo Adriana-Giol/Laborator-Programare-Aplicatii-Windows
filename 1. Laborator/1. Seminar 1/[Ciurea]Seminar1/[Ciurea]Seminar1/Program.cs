@@ -154,6 +154,51 @@ II.1.  - Vectorul este alocat in HEAP si initializat la declarare automat cu ace
                 }
                 Console.WriteLine();
             }
+
+            //************************INSTANTIERE STUDENT FOLOSING CONSTRUCTORUL DEFAULT si CONSTRUCTORUL CU PARAMETRI*************************************************
+            // Daca scriu doar Student s1 inseamna ca mi-am definit o referinta goala la tipul de date student - nu are nici un spatiu  alocat in memorie
+            Student s1 = new Student();
+            Student s2 = new Student(123, "Adriana", 22, 9.5f);
+           
+            //**********************************INSTANTIERE STUDENT FOLOSIND CONSTRUCTORUL DE COPIERE******************************************************
+            //Student s3(s2);     Nu merge aceasta varianta
+            //Student s3 = s2;   Este Shallow Copy deoarece nu s-a alocat spatiu pentru s3  - si s3 si s2 vor referi acelasi obiect
+
+            //DEEP COPY
+            Student s3 = new Student(s2);
+
+
+            //**************************************APELARE PROPRIETATE NUME*******************************************************************************
+            s3.Nume = "Dorel";              // Se apeleaza seter-ul
+            Console.WriteLine(s3.Nume);     //Se apeleaza geter-ul
+
+            //**************************************APELARE METODA DE AFISARE ****************************************************************************
+            s1.afisare();
+            s2.afisare();
+            s3.afisare();
+
+            //**************************************DECLARARE VECTOR DE STUDENTI ************************************************************************
+            Student[] vs = new Student[3] { s1, s2, s3 };
+
+            //*************************Traversare si afisare vector***************************
+            for(int i = 0; i < vs.Length; i++)
+            {
+                vs[i].afisare();
+                
+            }
+
+            for (int i = 0; i < vs.Length; i++)
+            {
+                Console.WriteLine(vs[i]);  // Daca vreau sa subtitui metoda de afisare cu apelul de TO STRING
+
+                /*WriteLine-ul incearca sa transforme ceea ce primeste ca parametru in sir de caractere,
+                doar ca obiectul din clasa Student nu stie sa se transforme in sir de carctere 
+               Ca sa pot sa il convertesc ar trebui sa fac un override la TO STRING
+                 */
+
+            }
+           
         }
+
     }
 }
