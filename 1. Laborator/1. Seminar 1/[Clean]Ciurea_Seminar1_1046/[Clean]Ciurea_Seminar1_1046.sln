@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[Clean]Ciurea_Seminar1_1046", "[Clean]Ciurea_Seminar1_1046.csproj", "{85DFC964-297B-465C-9B57-84C832B7C1F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85DFC964-297B-465C-9B57-84C832B7C1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DFC964-297B-465C-9B57-84C832B7C1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DFC964-297B-465C-9B57-84C832B7C1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DFC964-297B-465C-9B57-84C832B7C1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCB2C542-A1C6-482B-9077-418ED92044BF}
+	EndGlobalSection
+EndGlobal
