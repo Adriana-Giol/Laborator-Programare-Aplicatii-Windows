@@ -30,7 +30,7 @@ namespace _Com_Ciurea_Seminar2_1046
         //ToString
         public override string ToString()
         {
-            return base.ToString() + " lungimea " + lungime + "si este veninos " + esteVeninos;
+            return base.ToString() + " lungimea " + lungime + " si este veninos " + esteVeninos;
         }
     }
 }
