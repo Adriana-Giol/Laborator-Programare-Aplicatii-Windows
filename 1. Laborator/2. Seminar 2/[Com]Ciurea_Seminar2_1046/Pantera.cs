@@ -36,7 +36,7 @@ namespace _Com_Ciurea_Seminar2_1046
         public override string ToString()
         {
            // return base.ToString();  // va apela ToString din clasa Animal doar pentru acele atribute din clasa Animal
-           return base.ToString() + "culoarea " + culoare + " si este hranita " + esteHranita; // Apelam ToString din clasa Animal si concatenam cu atributele noi
+           return base.ToString() + " culoarea " + culoare + " si este hranita " + esteHranita; // Apelam ToString din clasa Animal si concatenam cu atributele noi
                                                                                                 // din clasa Pantera
         }
     }
