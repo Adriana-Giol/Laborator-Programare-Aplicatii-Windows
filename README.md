@@ -1,7 +1,7 @@
 # Programare Aplicatii Windows 
 # Laborator:
 1. Laborator 1:
-<br/>📚🖥️Particularitati de limbaj:📚🖥️
+ <br/>📚🖥️Particularitati de limbaj:📚🖥️
     - Citire si afisare in aplicatii de tip consola - C#
     - Vector
     - Shallow Copy 
@@ -15,4 +15,10 @@
      - Proprietati (functii accesor)
      - Functie de afisare clasica
      - Implementare ToString
+2. Laborator 2:
+<br/>📚🖥️Ierarhie de clase📚🖥️
+<br/>📚🖥️Implementare interfete IClonable si IComparable📚🖥️
+<br/>📚🖥️Supraincarcare operatori📚🖥️
 
+    - 
+4. Laborator 3:
