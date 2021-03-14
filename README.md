@@ -10,4 +10,9 @@
     - Masive bi-dimensionale - masiv in scara (zig-zag)
     
      <br/>📚🖥️Clase:📚🖥️ 
+     - Definire atribute
+     - Constructori (implicit, cu parametri, de copiere)
+     - Proprietati (functii accesor)
+     - Functie de afisare clasica
+     - Implementare ToString
 
