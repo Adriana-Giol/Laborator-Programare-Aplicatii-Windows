@@ -61,7 +61,7 @@ namespace _Com_Ciurea_Seminar2_1046
             //base este cuvantul cheie pe care o sa il folosim si la derivare si este clasa si referinta clasei Object
             // return base.ToString();  Nu ne ajuta la nimic deoarece nu am derivat clasa Animal din nici o alta clasa
 
-            return "Animalul " + nume + "are varsta " + varsta + "si greutatea " + greutate;
+            return "Animalul " + nume + " are varsta " + varsta + " si greutatea " + greutate;
         }
 
         //***********************************Implementarea interfetei ICLONABLE************************************************
