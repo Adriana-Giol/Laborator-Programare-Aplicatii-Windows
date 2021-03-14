@@ -10,23 +10,61 @@ namespace _Com_Ciurea_Seminar2_1046
     {
         static void Main(string[] args)
         {
-        }
 
-       /* Se supraincarca doar cativa operatori si de regula functii de supraincarcare vor fi statice (functii globale vazute la nivelul clasei) 
-        si din aceasta cauza nu o sa putem lucra in interiorul claselor cu referinta this. Astfel vom avea nevoie intotdeauna de 2 parametri: 
-                - un obiect din clasa mea
-                - un al doilea parametri de tip int sau float
-        Comutativitatea nu mai are sens si trebuie sa implementam ambele forme
-       
-        Operatori care NU se supraincarca:
-                -   Operator+=
-                -   Operator= , deoarece face Shallow Copy (face copie de referinta)
-                -   Operator index - se supraincarca sub forma unei proprietati care nu are nume si o sa porte numele this 
-       
-        O clasa abstracta poate sa includa: 
-                -  toate componentele pe care o clasa normala
-                -  o sa contina functii abstracte (virtuale) care se vor implementa in clasele derivate
-       Noi realizaam o clasa abstracta doar ca sa derivam din ea deoarece odata ce am declarat o clasa abstracta nu mai putem instantia nici un 
-       obiect cu new din clasa respectiva.*/
+
+            /* Se supraincarca doar cativa operatori si de regula functii de supraincarcare vor fi statice (functii globale vazute la nivelul clasei) 
+             si din aceasta cauza nu o sa putem lucra in interiorul claselor cu referinta this. Astfel vom avea nevoie intotdeauna de 2 parametri: 
+                     - un obiect din clasa mea
+                     - un al doilea parametri de tip int sau float
+             Comutativitatea nu mai are sens si trebuie sa implementam ambele forme
+
+             Operatori care NU se supraincarca:
+                     -   Operator+=
+                     -   Operator= , deoarece face Shallow Copy (face copie de referinta)
+                     -   Operator index - se supraincarca sub forma unei proprietati care nu are nume si o sa porte numele this 
+
+             O clasa abstracta poate sa includa: 
+                     -  toate componentele pe care o clasa normala
+                     -  o sa contina functii abstracte (virtuale) care se vor implementa in clasele derivate
+            Noi realizaam o clasa abstracta doar ca sa derivam din ea deoarece odata ce am declarat o clasa abstracta nu mai putem instantia nici un 
+            obiect cu new din clasa respectiva.*/
+
+
+            Animal a1 = new Animal();
+            Animal a2 = new Animal(10, "Animal", 20);
+            Animal a3 = (Animal)a2.Clone();
+            a3.Nume = "Grivei";
+            Console.WriteLine(a1);
+            Console.WriteLine(a2);
+            Console.WriteLine(a3);
+
+
+            Pantera p1 = new Pantera(15,"Pantera Roz", 50, "roz", true);
+            Sarpe s1 = new Sarpe(20, "Python", 40, 50, false);
+
+
+            //Creem un zoo si adaugam toate animalele anterior create in acel zoo
+            Zoo z1 = new Zoo();
+            z1.ListaAnimale.Add(a1);
+            z1.ListaAnimale.Add(a2);
+            z1.ListaAnimale.Add(a3);
+            z1.ListaAnimale.Add(p1);
+            z1.ListaAnimale.Add(s1);
+
+
+            //Mai creem inca un zoo pe baza primului zoo
+            Zoo z2 = (Zoo)z1.Clone();
+            z2.Denumire = "Busan";
+
+            /*Vreau sa modific colectia de animale din z2 o sa se modifice si in z1 deoarece am implementat in clasa Zoo
+            metoda Clonable cu acel MemberwiseClone, acela copiaza ca un operator= referinta catre lista de Animale din z1 */
+            foreach (Animal a in z2.ListaAnimale)
+            {
+                a.Nume += "Copie";
+            }
+            Console.WriteLine(z1);
+            Console.WriteLine(z2);
+
+        }
     }
 }
