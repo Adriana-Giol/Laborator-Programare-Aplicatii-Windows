@@ -107,10 +107,26 @@ namespace _Com_Ciurea_Seminar2_1046
             }
             else
                 //return 0; // daca vrem sa facem compararea doar dupa atributul greutate
-                return string.Compare(this.nume, a.nume); //daca vrem sa continuam compararea si dupa alte atribute 
+                return string.Compare(this.nume, a.nume);  //daca vrem sa continuam compararea si dupa alte atribute 
+        }
                 /*Metoda Compare Implementeaza acel strcpy intre 2 siruri de caractere si returneaza si el cele 3 valori {-1, 0, 1}*/
 
+            //***************************************  OPERATOR+ ****************************************************
+            //Varianta 1 
+            public static Animal operator+ (Animal a, int x)
+             {
+            a.varsta += x;
+            return a;
+                
+             }
+
+        //Varianta 2 - Comutativa
+        public static Animal operator+ (int x, Animal a)
+        {
+            return a + x;
         }
+
+        
 
     }
 }
