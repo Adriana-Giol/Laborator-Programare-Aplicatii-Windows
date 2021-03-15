@@ -32,6 +32,8 @@ namespace _Com_Ciurea_Seminar2_1046
             this.esteHranita = esteHranita;
         }
 
+       
+
         //****************************************************** IMPLEMENTARE TO STRING***********************************************************
         public override string ToString()
         {
@@ -39,5 +41,14 @@ namespace _Com_Ciurea_Seminar2_1046
            return base.ToString() + " culoarea " + culoare + " si este hranita " + esteHranita; // Apelam ToString din clasa Animal si concatenam cu atributele noi
                                                                                                 // din clasa Pantera
         }
+
+        /*Pentru a genera automat constructorii, proprietatile, ToString pentru o clasa:
+           Dam click drepata pe clasa respectiva -> Quick Actions and Refactorings
+            - Generate Constructor
+            - Generate Override
+            Dam click drepta pe un atribut -> Quick Actions and Refactorings 
+                - Encapsulate field 'culoare' (but still use field)   -- implementare cu Lambda*/
+        public string Culoare { get => culoare; set => culoare = value; }
+        public bool EsteHranita { get => esteHranita; set => esteHranita = value; }
     }
 }
