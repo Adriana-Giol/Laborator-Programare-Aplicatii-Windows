@@ -68,7 +68,7 @@ namespace _Com_Ciurea_Seminar2_1046
                     - Returnam obiectul clona care este independent si nu mai depinde de obiectul curent*/
             Zoo clona = (Zoo)this.MemberwiseClone();
             List<Animal> listaNoua = new List<Animal>();
-            foreach(Animal a in listaAnimale)
+            foreach (Animal a in listaAnimale)
             {
                 listaNoua.Add((Animal)a.Clone());  // Creem  o lista noua in care punem copii ale obiectelor din colectia curenta
 
@@ -77,8 +77,31 @@ namespace _Com_Ciurea_Seminar2_1046
             //Atasam lista creata si populata obiectului clona
             clona.listaAnimale = listaNoua;
             return clona;
+        }   
+
+//********************************************************** OPERATOR INDEX **************************************************************
+            /*Implementare operator index - se supraincarca sub forma unei proprietati
+                - Implementam operatorul index unde avem o colectie - o lista de animale 
+                - Putem sa avem si string index in loc de imt index si atunci referim un nume precum "Grivei" din lista de animale
+                - Tipul returnat este animal pentru ca eu returnez din lista de animale, animalul de pe o anumita pozitie*/
+
+            public Animal this[int index]
+        {
+            get
+            {
+                if (index >= 0 && index < listaAnimale.Count && listaAnimale != null)
+                {
+                    return listaAnimale[index];
+                }
+                else
+                {
+                    return null;
+                }
+            }
 
         }
-        
+
+
+
     }
 }
