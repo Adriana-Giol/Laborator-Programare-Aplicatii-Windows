@@ -31,9 +31,10 @@ namespace _Com_Ciurea_Seminar2_1046
 
 
             Animal a1 = new Animal();
-            Animal a2 = new Animal(10, "Animal", 20);
+            Animal a2 = new Animal(10, "Zoro", 150);
             Animal a3 = (Animal)a2.Clone();
             a3.Nume = "Grivei";
+            a3.Greutate = 15;
             Console.WriteLine(a1);
             Console.WriteLine(a2);
             Console.WriteLine(a3);
@@ -62,9 +63,36 @@ namespace _Com_Ciurea_Seminar2_1046
             {
                 a.Nume += "Copie";
             }
+
+            /*Sortare inainte de afisare - O sa se apeleze metoda CompareTo din clasa Animal
+                    - Se compara in functie de tipul de obiect pe care le include (noi avem obiecte de tip Animal la modul general) - in clasa Zoo noi 
+                        avem o lista de obiecte de tip Animal; ea poate include fie obiecte din clasa Animal fie subtipuri ale Animalului 
+                        (Pantera, Sarpe - care sunt subclase ale clasei Animal). 
+                    - Noi in lista Zoo avem 3 animale, 1 pantera si 1 sarpe - dar pe toate le vor compara deoarece se apeleaza IComparable din clasa de baza Animal
+            
+                    - IComparable substituie operatorii <, > =*/
+            z1.ListaAnimale.Sort();
+            z2.ListaAnimale.Sort();
+
+            //Afisare lista de animale
             Console.WriteLine(z1);
             Console.WriteLine(z2);
 
+
+            //APEL DE OPERATOR INDEX  -  Afisare un animal de pe o anumita pozitie
+            Console.WriteLine("----------------------");
+            Console.WriteLine(z2[3]);
+
+            //APEL DE OPERATOR+
+            Console.WriteLine("----------------------");
+            a2 += 10; 
+            a3 = a3 + 12;
+
+            //Varianta comutativa
+            a1 = 15 + a1;
+            Console.WriteLine(a1);
+            Console.WriteLine(a2);
+            Console.WriteLine(a3);
         }
     }
 }
