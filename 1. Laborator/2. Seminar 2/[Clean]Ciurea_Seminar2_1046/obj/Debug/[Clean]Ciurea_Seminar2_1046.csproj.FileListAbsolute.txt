@@ -1,0 +1,7 @@
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\2. Seminar 2\[Clean]Ciurea_Seminar2_1046\bin\Debug\[Clean]Ciurea_Seminar2_1046.exe.config
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\2. Seminar 2\[Clean]Ciurea_Seminar2_1046\bin\Debug\[Clean]Ciurea_Seminar2_1046.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\2. Seminar 2\[Clean]Ciurea_Seminar2_1046\bin\Debug\[Clean]Ciurea_Seminar2_1046.pdb
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\2. Seminar 2\[Clean]Ciurea_Seminar2_1046\obj\Debug\[Clean]Ciurea_Seminar2_1046.csprojAssemblyReference.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\2. Seminar 2\[Clean]Ciurea_Seminar2_1046\obj\Debug\[Clean]Ciurea_Seminar2_1046.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\2. Seminar 2\[Clean]Ciurea_Seminar2_1046\obj\Debug\[Clean]Ciurea_Seminar2_1046.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\2. Seminar 2\[Clean]Ciurea_Seminar2_1046\obj\Debug\[Clean]Ciurea_Seminar2_1046.pdb
