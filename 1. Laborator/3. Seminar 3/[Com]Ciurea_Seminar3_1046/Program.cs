@@ -47,10 +47,10 @@ namespace _Com_Ciurea_Seminar3_1046
                 Console.WriteLine(s);
             }
 
-            //Pentru a face formularul vizibil trebuie sa instantiem un obiect din clasa Form1
-            Form1 form = new Form1();
-            form.ShowDialog();  // Putem sa interactionam cu ambele ferestre 
-           // form.Show() //  Nu putem interactionam cu alte ferestre
+           // //Pentru a face formularul vizibil trebuie sa instantiem un obiect din clasa Form1
+           // Form form = new Form();
+           // form.ShowDialog();  // Putem sa interactionam cu ambele ferestre 
+           //// form.Show() //  Nu putem interactionam cu alte ferestre
 
         }
     }
