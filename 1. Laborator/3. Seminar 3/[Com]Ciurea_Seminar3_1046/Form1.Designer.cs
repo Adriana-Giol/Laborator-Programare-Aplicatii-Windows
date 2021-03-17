@@ -127,12 +127,14 @@
             // 
             // btnCreareStudent
             // 
-            this.btnCreareStudent.Location = new System.Drawing.Point(91, 347);
+            this.btnCreareStudent.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnCreareStudent.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCreareStudent.Location = new System.Drawing.Point(52, 344);
             this.btnCreareStudent.Name = "btnCreareStudent";
-            this.btnCreareStudent.Size = new System.Drawing.Size(116, 33);
+            this.btnCreareStudent.Size = new System.Drawing.Size(226, 43);
             this.btnCreareStudent.TabIndex = 10;
             this.btnCreareStudent.Text = "Creare Student";
-            this.btnCreareStudent.UseVisualStyleBackColor = true;
+            this.btnCreareStudent.UseVisualStyleBackColor = false;
             this.btnCreareStudent.Click += new System.EventHandler(this.btnCreareStudent_Click);
             // 
             // Form1
