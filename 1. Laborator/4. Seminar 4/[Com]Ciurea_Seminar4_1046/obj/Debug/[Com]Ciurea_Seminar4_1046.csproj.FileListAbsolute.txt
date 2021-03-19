@@ -1,0 +1,11 @@
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\bin\Debug\[Com]Ciurea_Seminar4_1046.exe.config
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\bin\Debug\[Com]Ciurea_Seminar4_1046.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\bin\Debug\[Com]Ciurea_Seminar4_1046.pdb
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\obj\Debug\[Com]Ciurea_Seminar4_1046.csprojAssemblyReference.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\obj\Debug\_Com_Ciurea_Seminar4_1046.Form1.resources
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\obj\Debug\_Com_Ciurea_Seminar4_1046.Properties.Resources.resources
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\obj\Debug\[Com]Ciurea_Seminar4_1046.csproj.GenerateResource.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\obj\Debug\[Com]Ciurea_Seminar4_1046.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\obj\Debug\[Com]Ciurea_Seminar4_1046.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\obj\Debug\[Com]Ciurea_Seminar4_1046.pdb
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\1. Laborator\4. Seminar 4\[Com]Ciurea_Seminar4_1046\obj\Debug\_Com_Ciurea_Seminar4_1046.Form2.resources
