@@ -20,7 +20,7 @@ namespace _Com_Ciurea_Seminar2_1046
             this.esteVeninos = false;
         }
 
-        //Constructor implicit
+        //Constructor cu parametri
         public Sarpe(int varsta, string nume, float greutate, int lungime, bool esteVeninos) : base(varsta,nume, greutate)
         {
             this.lungime = lungime;

@@ -14,7 +14,7 @@ namespace _Com_Ciurea_Seminar2_1046
         private string denumire;
         private List<Animal> listaAnimale;
 
-        //Constructorul initial
+        //Constructorul implicit
         public Zoo()
         {
             this.denumire = "Seul";
