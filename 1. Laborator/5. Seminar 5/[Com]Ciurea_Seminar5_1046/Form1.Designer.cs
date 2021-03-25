@@ -39,6 +39,7 @@
             this.tbXAU = new System.Windows.Forms.TextBox();
             this.labelXAU = new System.Windows.Forms.Label();
             this.btnParsare = new System.Windows.Forms.Button();
+            this.btnGenerare = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // labelDataCurs
@@ -124,13 +125,24 @@
             // btnParsare
             // 
             this.btnParsare.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnParsare.Location = new System.Drawing.Point(177, 335);
+            this.btnParsare.Location = new System.Drawing.Point(126, 330);
             this.btnParsare.Name = "btnParsare";
-            this.btnParsare.Size = new System.Drawing.Size(176, 36);
+            this.btnParsare.Size = new System.Drawing.Size(125, 40);
             this.btnParsare.TabIndex = 10;
             this.btnParsare.Text = "PARSARE";
             this.btnParsare.UseVisualStyleBackColor = true;
             this.btnParsare.Click += new System.EventHandler(this.btnParsare_Click);
+            // 
+            // btnGenerare
+            // 
+            this.btnGenerare.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGenerare.Location = new System.Drawing.Point(307, 330);
+            this.btnGenerare.Name = "btnGenerare";
+            this.btnGenerare.Size = new System.Drawing.Size(126, 40);
+            this.btnGenerare.TabIndex = 11;
+            this.btnGenerare.Text = "GENERARE";
+            this.btnGenerare.UseVisualStyleBackColor = true;
+            this.btnGenerare.Click += new System.EventHandler(this.btnGenerare_Click);
             // 
             // Form1
             // 
@@ -138,6 +150,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Purple;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnGenerare);
             this.Controls.Add(this.btnParsare);
             this.Controls.Add(this.tbXAU);
             this.Controls.Add(this.labelXAU);
@@ -169,6 +182,7 @@
         private System.Windows.Forms.TextBox tbXAU;
         private System.Windows.Forms.Label labelXAU;
         private System.Windows.Forms.Button btnParsare;
+        private System.Windows.Forms.Button btnGenerare;
     }
 }
 

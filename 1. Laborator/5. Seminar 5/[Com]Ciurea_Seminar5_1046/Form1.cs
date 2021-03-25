@@ -73,5 +73,57 @@ namespace _Com_Ciurea_Seminar5_1046
 
             }
         }
+
+        private void btnGenerare_Click(object sender, EventArgs e)
+        {
+            
+            MemoryStream memStream = new MemoryStream();
+            XmlTextWriter writer = new XmlTextWriter(memStream, Encoding.UTF8);
+            writer.Formatting = Formatting.Indented;
+
+            writer.WriteStartDocument();
+
+                writer.WriteStartElement("CursValutar");
+
+                        writer.WriteStartElement("CursValutar");
+                        writer.WriteValue(tbDataCurs.Text);
+                        writer.WriteEndElement();
+
+                        writer.WriteStartElement("CursEUR");
+                        writer.WriteAttributeString("Value", "EUR");
+                        writer.WriteValue(tbDataCurs.Text);
+                        writer.WriteEndElement();
+
+                        writer.WriteStartElement("Cursusd");
+                        writer.WriteAttributeString("Value", "USD");
+                        writer.WriteValue(tbDataCurs.Text); //Valoare nodului
+                        writer.WriteEndElement();
+
+                        writer.WriteStartElement("CursGBP");
+                        writer.WriteAttributeString("Value", "GBP");
+                        writer.WriteValue(tbDataCurs.Text);
+                        writer.WriteEndElement();
+
+                        writer.WriteStartElement("CursXAU");
+                        writer.WriteAttributeString("Value", "XAU");
+                        writer.WriteValue(tbDataCurs.Text);
+                        writer.WriteEndElement();
+
+
+            writer.WriteEndElement();
+
+            writer.WriteEndDocument();
+
+            writer.Close();
+
+            //Preluare continutului 
+            string str = Encoding.UTF8.GetString(memStream.ToArray());
+
+            //Salvare fisier pe disc
+            StreamWriter sw = new StreamWriter("fisier.xml");
+            sw.WriteLine(str);
+            sw.Close();
+            MessageBox.Show("Am generat!");
+        }
     }
 }

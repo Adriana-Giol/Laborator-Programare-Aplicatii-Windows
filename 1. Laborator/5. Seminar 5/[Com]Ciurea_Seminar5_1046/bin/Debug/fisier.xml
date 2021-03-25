@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CursValutar>
+  <CursValutar>2021-03-25</CursValutar>
+  <CursEUR Value="EUR">2021-03-25</CursEUR>
+  <Cursusd Value="USD">2021-03-25</Cursusd>
+  <CursGBP Value="GBP">2021-03-25</CursGBP>
+  <CursXAU Value="XAU">2021-03-25</CursXAU>
+</CursValutar>
