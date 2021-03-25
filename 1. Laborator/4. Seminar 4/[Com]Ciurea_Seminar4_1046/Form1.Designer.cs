@@ -39,8 +39,8 @@
             this.tbNote = new System.Windows.Forms.TextBox();
             this.labelNote = new System.Windows.Forms.Label();
             this.btnCreareStudent = new System.Windows.Forms.Button();
-            this.tbAfisareStudent = new System.Windows.Forms.TextBox();
             this.btnAfisare = new System.Windows.Forms.Button();
+            this.tbAfisareStudent = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // labelCod
@@ -139,14 +139,6 @@
             this.btnCreareStudent.UseVisualStyleBackColor = false;
             this.btnCreareStudent.Click += new System.EventHandler(this.btnCreareStudent_Click);
             // 
-            // tbAfisareStudent
-            // 
-            this.tbAfisareStudent.Location = new System.Drawing.Point(356, 64);
-            this.tbAfisareStudent.Multiline = true;
-            this.tbAfisareStudent.Name = "tbAfisareStudent";
-            this.tbAfisareStudent.Size = new System.Drawing.Size(562, 174);
-            this.tbAfisareStudent.TabIndex = 11;
-            // 
             // btnAfisare
             // 
             this.btnAfisare.Location = new System.Drawing.Point(597, 311);
@@ -156,6 +148,14 @@
             this.btnAfisare.Text = "Afisare";
             this.btnAfisare.UseVisualStyleBackColor = true;
             this.btnAfisare.Click += new System.EventHandler(this.btnAfisare_Click);
+            // 
+            // tbAfisareStudent
+            // 
+            this.tbAfisareStudent.Location = new System.Drawing.Point(356, 64);
+            this.tbAfisareStudent.Multiline = true;
+            this.tbAfisareStudent.Name = "tbAfisareStudent";
+            this.tbAfisareStudent.Size = new System.Drawing.Size(562, 174);
+            this.tbAfisareStudent.TabIndex = 11;
             // 
             // Form1
             // 
@@ -195,7 +195,7 @@
         private System.Windows.Forms.TextBox tbNote;
         private System.Windows.Forms.Label labelNote;
         private System.Windows.Forms.Button btnCreareStudent;
-        private System.Windows.Forms.TextBox tbAfisareStudent;
         private System.Windows.Forms.Button btnAfisare;
+        private System.Windows.Forms.TextBox tbAfisareStudent;
     }
 }

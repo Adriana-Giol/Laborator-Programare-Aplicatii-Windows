@@ -1,0 +1,3 @@
+Persoana cu codul 1 are sexul F varsta 22 numele Adriana si are urmatoarele note 10 9 
+Persoana cu codul 2 are sexul M varsta 25 numele Alexandru si are urmatoarele note 7 8 
+

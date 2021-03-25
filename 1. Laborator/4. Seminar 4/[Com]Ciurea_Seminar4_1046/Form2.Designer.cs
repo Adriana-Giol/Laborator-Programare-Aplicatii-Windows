@@ -30,6 +30,9 @@
         {
             this.tbAfisareStudent2 = new System.Windows.Forms.TextBox();
             this.btnAfisare2 = new System.Windows.Forms.Button();
+            this.btnSalvare = new System.Windows.Forms.Button();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.btnRestaurare = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // tbAfisareStudent2
@@ -43,7 +46,7 @@
             // 
             // btnAfisare2
             // 
-            this.btnAfisare2.Location = new System.Drawing.Point(338, 291);
+            this.btnAfisare2.Location = new System.Drawing.Point(114, 277);
             this.btnAfisare2.Name = "btnAfisare2";
             this.btnAfisare2.Size = new System.Drawing.Size(121, 51);
             this.btnAfisare2.TabIndex = 1;
@@ -51,11 +54,33 @@
             this.btnAfisare2.UseVisualStyleBackColor = true;
             this.btnAfisare2.Click += new System.EventHandler(this.btnAfisare2_Click);
             // 
+            // btnSalvare
+            // 
+            this.btnSalvare.Location = new System.Drawing.Point(329, 277);
+            this.btnSalvare.Name = "btnSalvare";
+            this.btnSalvare.Size = new System.Drawing.Size(114, 51);
+            this.btnSalvare.TabIndex = 2;
+            this.btnSalvare.Text = "Salvare in Fisier";
+            this.btnSalvare.UseVisualStyleBackColor = true;
+            this.btnSalvare.Click += new System.EventHandler(this.btnSalvare_Click);
+            // 
+            // btnRestaurare
+            // 
+            this.btnRestaurare.Location = new System.Drawing.Point(540, 277);
+            this.btnRestaurare.Name = "btnRestaurare";
+            this.btnRestaurare.Size = new System.Drawing.Size(111, 51);
+            this.btnRestaurare.TabIndex = 3;
+            this.btnRestaurare.Text = "Restaurare din Fisier";
+            this.btnRestaurare.UseVisualStyleBackColor = true;
+            this.btnRestaurare.Click += new System.EventHandler(this.btnRestaurare_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnRestaurare);
+            this.Controls.Add(this.btnSalvare);
             this.Controls.Add(this.btnAfisare2);
             this.Controls.Add(this.tbAfisareStudent2);
             this.Name = "Form2";
@@ -69,5 +94,8 @@
 
         private System.Windows.Forms.TextBox tbAfisareStudent2;
         private System.Windows.Forms.Button btnAfisare2;
+        private System.Windows.Forms.Button btnSalvare;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog1;
+        private System.Windows.Forms.Button btnRestaurare;
     }
 }

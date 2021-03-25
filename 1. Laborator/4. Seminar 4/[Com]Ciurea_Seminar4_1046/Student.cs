@@ -64,7 +64,7 @@ namespace _Com_Ciurea_Seminar4_1046
             Console.WriteLine("Anul nasterii este: {0}", System.DateTime.Now.Year - varsta);
         }
 
-        //Implementare IClonable
+        //Implementare ICloneable
         public object Clone()
         {
             //  return this.MemberwiseClone();  - o sa afiseze vectorul dar obiectele vor partaja acelasi vector - FACE SHALLOW COPY

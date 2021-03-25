@@ -55,10 +55,13 @@ namespace _Com_Ciurea_Seminar4_1046
 
                 //Acum putem crea un student
                 Student s = new Student(cod, sex, varsta, nume, note);
-                MessageBox.Show(s.ToString());
 
                 //Adaugare student in lista
                 listaStud.Add(s);
+
+                MessageBox.Show(s.ToString());
+
+              
 
             }
             catch (Exception exceptie)
