@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _Com_Ciurea_Seminar4_1046
 {
+    [Serializable]
     //Clasa Abstracta Persoana
     public abstract class Persoana
     {

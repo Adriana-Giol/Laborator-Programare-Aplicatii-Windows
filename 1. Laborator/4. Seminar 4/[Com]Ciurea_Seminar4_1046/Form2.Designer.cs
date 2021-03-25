@@ -33,6 +33,8 @@
             this.btnSalvare = new System.Windows.Forms.Button();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.btnRestaurare = new System.Windows.Forms.Button();
+            this.btnSerializare = new System.Windows.Forms.Button();
+            this.btnDeserializare = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // tbAfisareStudent2
@@ -46,7 +48,7 @@
             // 
             // btnAfisare2
             // 
-            this.btnAfisare2.Location = new System.Drawing.Point(114, 277);
+            this.btnAfisare2.Location = new System.Drawing.Point(101, 219);
             this.btnAfisare2.Name = "btnAfisare2";
             this.btnAfisare2.Size = new System.Drawing.Size(121, 51);
             this.btnAfisare2.TabIndex = 1;
@@ -56,7 +58,7 @@
             // 
             // btnSalvare
             // 
-            this.btnSalvare.Location = new System.Drawing.Point(329, 277);
+            this.btnSalvare.Location = new System.Drawing.Point(300, 219);
             this.btnSalvare.Name = "btnSalvare";
             this.btnSalvare.Size = new System.Drawing.Size(114, 51);
             this.btnSalvare.TabIndex = 2;
@@ -66,7 +68,7 @@
             // 
             // btnRestaurare
             // 
-            this.btnRestaurare.Location = new System.Drawing.Point(540, 277);
+            this.btnRestaurare.Location = new System.Drawing.Point(479, 219);
             this.btnRestaurare.Name = "btnRestaurare";
             this.btnRestaurare.Size = new System.Drawing.Size(111, 51);
             this.btnRestaurare.TabIndex = 3;
@@ -74,11 +76,33 @@
             this.btnRestaurare.UseVisualStyleBackColor = true;
             this.btnRestaurare.Click += new System.EventHandler(this.btnRestaurare_Click);
             // 
+            // btnSerializare
+            // 
+            this.btnSerializare.Location = new System.Drawing.Point(200, 314);
+            this.btnSerializare.Name = "btnSerializare";
+            this.btnSerializare.Size = new System.Drawing.Size(113, 48);
+            this.btnSerializare.TabIndex = 4;
+            this.btnSerializare.Text = "Serializare";
+            this.btnSerializare.UseVisualStyleBackColor = true;
+            this.btnSerializare.Click += new System.EventHandler(this.btnSerializare_Click);
+            // 
+            // btnDeserializare
+            // 
+            this.btnDeserializare.Location = new System.Drawing.Point(401, 314);
+            this.btnDeserializare.Name = "btnDeserializare";
+            this.btnDeserializare.Size = new System.Drawing.Size(107, 48);
+            this.btnDeserializare.TabIndex = 5;
+            this.btnDeserializare.Text = "Deserializare";
+            this.btnDeserializare.UseVisualStyleBackColor = true;
+            this.btnDeserializare.Click += new System.EventHandler(this.btnDeserializare_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnDeserializare);
+            this.Controls.Add(this.btnSerializare);
             this.Controls.Add(this.btnRestaurare);
             this.Controls.Add(this.btnSalvare);
             this.Controls.Add(this.btnAfisare2);
@@ -97,5 +121,7 @@
         private System.Windows.Forms.Button btnSalvare;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
         private System.Windows.Forms.Button btnRestaurare;
+        private System.Windows.Forms.Button btnSerializare;
+        private System.Windows.Forms.Button btnDeserializare;
     }
 }

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace _Com_Ciurea_Seminar4_1046
 {
-    
-   public class Student : Persoana,ICloneable,IComparable,IMedia
+    [Serializable]
+    public class Student : Persoana,ICloneable,IComparable,IMedia
     {
         //Declarare atribute 
         private int varsta;
