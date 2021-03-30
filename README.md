@@ -19,6 +19,8 @@
 <br/>📚🖥️Ierarhie de clase📚🖥️
 <br/>📚🖥️Implementare interfete IClonable si IComparable📚🖥️
 <br/>📚🖥️Supraincarcare operatori📚🖥️
-
-    - 
-4. Laborator 3:
+    - Operator+
+    - Operator++
+    - Operator cast
+    - Operator index
+3. Laborator 3:
