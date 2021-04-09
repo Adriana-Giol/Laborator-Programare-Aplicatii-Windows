@@ -1,5 +1,5 @@
  ### 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠 CLASA STUDENT.CS 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
-## 🔮[Cod Sursa](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/1.%20Laborator/1.%20Seminar%201/%5BClean%5DCiurea_Seminar1_1046/Student.cs)🔮
+### 🔮[Cod Sursa](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/1.%20Laborator/1.%20Seminar%201/%5BClean%5DCiurea_Seminar1_1046/Student.cs)🔮
 # 🎯 VI. CLASA STUDENT </br>
 1️⃣**PAS 1: Click drepta pe proiect -> Add -> New Item -> Class**</br>
 *Namespace-ul este acelasi pentru toate clasele - daca luam o clasa dintr-un alt proiect trebuie sa ne asiguram ca namespace-ul se potriveste cu al nostru.*</br>
