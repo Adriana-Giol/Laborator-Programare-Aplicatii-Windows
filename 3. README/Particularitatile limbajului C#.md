@@ -53,7 +53,7 @@ Fisierul XML este un fel de fisier text care are niste marcatori(tag-uri) si cu 
 
 
 
-### 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴 CLASA PROGRAM.CS - Static void Main 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+### 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 CLASA PROGRAM.CS - Static void Main 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢
 # 🎯 I. SCRIERE SI CITIRE - Doar pentru aplicatii de tip Console App </br>
 1️⃣**PAS 1: SCRIERE: Afisare mesaj pe ecran COUT = Console.WriteLine():**</br>
 * - Console este o clasa.*</br>
