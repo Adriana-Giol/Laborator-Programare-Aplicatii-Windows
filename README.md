@@ -20,6 +20,7 @@
    - Proprietati (functii accesor) 
    - To String
    - ICloneable / IComparable
+   - Operator+
 
   ✔️[2. Clasa derivata Pantera](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera)
    - Definire atribute
@@ -40,6 +41,7 @@
    - Proprietati (functii accesor) 
    - To String
    - ICloneable
+   - Ooperator INDEX
 
   
  
