@@ -1,5 +1,5 @@
 # 🎯 CLASA ZOO </br>
-### 🔮[Cod Sursa](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/1.%20Laborator/2.%20Seminar%202/%5BClean%5DCiurea_Seminar2_1046/Pantera.cs)🔮
+### 🔮[Cod Sursa](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/1.%20Laborator/2.%20Seminar%202/%5BClean%5DCiurea_Seminar2_1046/Zoo.cs)🔮
 ### 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠 CLASA ZOO.CS 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
 1️⃣**PAS 1: Click drepta pe proiect -> Add -> New Item -> Class**</br>
 
