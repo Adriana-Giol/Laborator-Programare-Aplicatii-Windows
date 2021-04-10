@@ -125,3 +125,27 @@ Scopul implementarii compareTo este de a permite sortarea de obiecte pentru a pu
                 return this.greutate.CompareTo(a.greutate);
         }
 ```
+### 🟢🟢🟢🟢🟢🟢🟢🟢🟢 CLASA PROGRAM.CS - Functia Static Void Main🟢🟢🟢🟢🟢🟢🟢🟢🟢
+9️⃣**PAS 9: Instantiere Animal folosind constructorul default si constructorul cu parametri**</br>
+```cpp
+ Animal a1 = new Animal();
+ Animal a2 = new Animal(10, "Zoro", 150);
+```
+
+🔟**PAS 10: Instantiere Animal folosind constructorul de copiere**</br>
+```cpp
+  Animal a3 = (Animal)a2.Clone();
+```
+
+1️⃣1️⃣**PAS 11: Apelare Proprietate NUME si GREUTATE**</br>
+```cpp
+ a3.Nume = "Grivei";
+ a3.Greutate = 150;
+```
+
+1️⃣2️⃣**PAS 12: Apelare TO STRING pentru toate obiectele**</br>
+```cpp
+   Console.WriteLine(a1);
+   Console.WriteLine(a2);
+   Console.WriteLine(a3);
+```
