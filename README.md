@@ -20,16 +20,28 @@
    - Proprietati (functii accesor) 
    - To String
    - ICloneable / IComparable
-  
+
   ✔️[2. Clasa derivata Pantera](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera)
    - Definire atribute
    - Constructor implicit / cu parametri 
    - Proprietati (functii accesor) 
-   - To String
-   
-  ✔️[3. Clasa Zoo]()
+   - To String</br>
+   - *ICloneable / IComparable - mostenite din clasa Animal*
 
-  ✔️[4. Clasa derivata Sarpe]()
+  ✔️[3. Clasa derivata Sarpe](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Sarpe.md)
+   - Definire atribute
+   - Constructor implicit / cu parametri 
+   - To String </br>
+   -*ICloneable / IComparable - mostenite din clasa Animal*
+
+  ✔️[4. Clasa Zoo](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)
+   - Definire atribute
+   - Constructor implicit 
+   - Proprietati (functii accesor) 
+   - To String
+   - ICloneable
+
+  
  
     
   *Doar o parte din operatori se pot supraincarca in C#  si toate functii de supraincarcare vor fi niste functii statice (global vazute la nivelul clasei) si din acest motiv nu o sa putem sa lucram in cadrul functiilor respective cu referinta this. De aceea tot timpul o sa am nevoie de 2 operatori: un obiect din clasa si apoi pot sa mai primesc un alt obiect sau o variabila de tip fundamentala. Comutativitatea si aici inu are sens si trebuie sa implementam ambele forme.
