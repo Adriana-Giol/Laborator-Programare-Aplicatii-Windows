@@ -1,6 +1,6 @@
 # 🎯 CLASA DERIVATA SARPE </br>
 ### 🔮[Cod Sursa](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/1.%20Laborator/2.%20Seminar%202/%5BClean%5DCiurea_Seminar2_1046/Sarpe.cs)🔮
-### 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠 CLASA PANTERA.CS 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
+### 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠 CLASA SARPE.CS 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
 1️⃣**PAS 1: Click drepta pe proiect -> Add -> New Item -> Class**</br>
 
 2️⃣**PAS 2: DEFINIRE ATRIBUTE**</br>
