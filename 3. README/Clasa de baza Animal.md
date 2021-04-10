@@ -125,26 +125,55 @@ Scopul implementarii compareTo este de a permite sortarea de obiecte pentru a pu
                 return this.greutate.CompareTo(a.greutate);
         }
 ```
+9️⃣**PAS 9: Supraincarcare Operator➕**</br>
+*Operatorul+ se supraincarca ca o functie statica. Fiind o functie statica nu putem lucra cu this, ci vom avea 2 parametri primiti.*</br>
+```cpp
+ public static Animal operator +(Animal a, int x)
+        {
+            a.varsta += x;
+            return a;
+        }
+```
+*Varianta comuntativa arata la fel doar ca o sa inversam parametri. `a + x` apeleaza operatorul de mai sus.*</br>
+```cpp
+        public static Animal operator +(int x, Animal a)
+        {
+            return a + x;
+        }
+  ```
+  
 ### 🟢🟢🟢🟢🟢🟢🟢🟢🟢 CLASA PROGRAM.CS - Functia Static Void Main🟢🟢🟢🟢🟢🟢🟢🟢🟢
-9️⃣**PAS 9: Instantiere Animal folosind constructorul default si constructorul cu parametri**</br>
+🔟**PAS 10: Instantiere Animal folosind constructorul default si constructorul cu parametri**</br>
 ```cpp
  Animal a1 = new Animal();
  Animal a2 = new Animal(10, "Zoro", 150);
 ```
 
-🔟**PAS 10: Instantiere Animal folosind metoda clone.**</br>
+1️⃣1️⃣**PAS 11: Instantiere Animal folosind metoda clone.**</br>
 ```cpp
   Animal a3 = (Animal)a2.Clone();
 ```
 
-1️⃣1️⃣**PAS 11: Apelare Proprietate NUME si GREUTATE**</br>
+1️⃣2️⃣**PAS 12: Apelare Proprietate NUME si GREUTATE**</br>
 ```cpp
  a3.Nume = "Grivei";
  a3.Greutate = 150;
 ```
 
-1️⃣2️⃣**PAS 12: Apelare TO STRING pentru toate obiectele**</br>
+1️⃣3️⃣**PAS 13: Apelare TO STRING pentru toate obiectele**</br>
 ```cpp
+   Console.WriteLine(a1);
+   Console.WriteLine(a2);
+   Console.WriteLine(a3);
+```
+
+1️⃣4️⃣**PAS 14: Apelare supraincarcare OPERATOR+**</br>
+*In toate cazurile se apeleaza si operatorul+ si operatorul=.*</br>
+```cpp
+ a2 += 10;
+ a3 = a3 + 12;
+ a1 = 15 + a1; //Varianta comutativa
+ 
    Console.WriteLine(a1);
    Console.WriteLine(a2);
    Console.WriteLine(a3);
