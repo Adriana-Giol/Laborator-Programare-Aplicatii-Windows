@@ -53,7 +53,7 @@
         }
 ```
 
-5️⃣**PAS 6: IMPLEMENTARE ICLONEABLE**</br>
+6️⃣**PAS 6: IMPLEMENTARE ICLONEABLE**</br>
 💡**Implementam interfata ICloneable**</br>
 ```cpp
     class Zoo : ICloneable
@@ -74,11 +74,11 @@
         }
 ```
 ### 🟢🟢🟢🟢🟢🟢🟢🟢🟢 CLASA PROGRAM.CS - Functia Static Void Main🟢🟢🟢🟢🟢🟢🟢🟢🟢
-6️⃣**PAS 6: Instantiere ZOO folosind constructorul implicit**</br>
+7️⃣**PAS 7: Instantiere ZOO folosind constructorul implicit**</br>
 ```cpp
    Zoo z1 = new Zoo();
 ```
-7️⃣**PAS 7: Adaugam toate animalele in lista de animale**</br>
+8️⃣**PAS 8: Adaugam toate animalele in lista de animale**</br>
 ```cpp
  z1.ListaAnimale.Add(a1);
  z1.ListaAnimale.Add(a2);
@@ -86,21 +86,21 @@
  z1.ListaAnimale.Add(p1);
  z1.ListaAnimale.Add(s1);
 ```
-8️⃣**PAS 8: Cream o alta gradina Zoo pe baza primei gradini Zoologice**</br>
+9️⃣**PAS 9: Cream o alta gradina Zoo pe baza primei gradini Zoologice**</br>
 ```cpp
    Zoo z2 = (Zoo)z1.Clone();
 ```
-9️⃣**PAS 9: Schimbam denumirea lui Z2**</br>
+🔟**PAS 10: Schimbam denumirea lui Z2**</br>
 ```cpp
  z2.Denumire = "Berlin";
  ```
-🔟**PAS 10: Daca vreau sa schimb colectia de animale din z2**</br>
+1️⃣1️⃣**PAS 11: Daca vreau sa schimb colectia de animale din z2**</br>
 ```cpp
   foreach (Animal a in z2.ListaAnimale)
        a.Nume += " copie";
 ```
 
-1️⃣1️⃣**PAS 11: Testare sortare (CompareTo) si Afisare (ToString)**</br>
+1️⃣2️⃣**PAS 12: Testare sortare (CompareTo) si Afisare (ToString)**</br>
 *In cazul sortarii se apeleaza CompareTo din clasa Animal*</br>
 ```cpp
  z1.ListaAnimale.Sort();
