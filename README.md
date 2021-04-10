@@ -22,7 +22,7 @@
    - ICloneable / IComparable
    - Operator+
 
-  ✔️[2. Clasa derivata Pantera](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera)
+  ✔️[2. Clasa derivata Pantera](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera.md)
    - Definire atribute
    - Constructor implicit / cu parametri 
    - Proprietati (functii accesor) 
@@ -35,7 +35,7 @@
    - To String </br>
    -*ICloneable / IComparable - mostenite din clasa Animal*
 
-  ✔️[4. Clasa Zoo](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)
+  ✔️[4. Clasa Zoo - Colectie de Animale](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)
    - Definire atribute
    - Constructor implicit 
    - Proprietati (functii accesor) 
