@@ -47,12 +47,13 @@
    <details open>
   <p>
   <summary>🟡Clasa Student implementeaza IComparable 💡 Implement Interface </br></summary>
+  *CompareTo se foloseste pentru a stabili relatii de ordine intre obiectele clasei. Verificam daca obiectul curent al clasei (referinta this) este >, <, = decat un obiect obj primit ca parametru.Obj este tipul generic. Daca au aceeasi medie, ii sortez alfabetic, altfel sunt sortati descrescator dupa medie.* </br>
   
   ```cpp
     //Implementare metoda COMPARE TO
            public int CompareTo(object obj)
         {
-            Student s = (Student)obj;
+            Student s = (Student)obj;  //facem CAST
             if ((float)this > (float)s)
                 return -1;
             else
@@ -75,7 +76,7 @@
 // Implementare metoda CalculeazaMedia
 public float calculeazaMedie()
    {
-      return (float)this;
+      return (float)this;  //Apelre CAST la FLOAT
    }
 ```
 
@@ -109,9 +110,16 @@ public float calculeazaMedie()
            
         }
 ```
-❌ **PROPRIETATILE NU LE IMPLEMENTAM DEOARECE AM FACUT ATRIBUTELE PROTECTED SI ASTFEL SUNT VIZIBILE IN CLASELE DERIVATE**</br>
+5️⃣ **PAS 5: PROPRIETATI:**</br>
+```cpp
+        public int Varsta
+        {
+            get { return varsta; }
+            set { if (value>0) varsta = value; }
+        }
+```
 
-5️⃣ **PAS 5: SUPRAINCARCARE FUNCTIE TO STRING**</br>
+6️⃣ **PAS 6: SUPRAINCARCARE FUNCTIE TO STRING**</br>
 *ToString-ul din clasa Student va trebui sa apeleze si base.toString din clasa Persoana ca sa ne afiseze si codul si sexul.*</br>
 *Pentru vectorul de note lu-am un string pe care il concatenam.*<br>
 ⚠️**La vectorul de note daca vreau sa afisez datele unui Student pe baza constructorului default o sa crape programul deoarece vectorul de note este NULL si nu are alocata zona de memorie. Atunci trebuie sa testez daca vectorul de note este neNULL si daca este neNULL trebuie sa parcurg vectorul si sa le afisez, pe else (daca e NULL) inseamna ca nu avem note in acel vector de note.**</br>
@@ -132,7 +140,7 @@ public float calculeazaMedie()
 
 ```
 
-6️⃣ **PAS 6: OPERATOR+**</br>
+ 7️⃣**PAS 7: OPERATOR+**</br>
 *Operatorul+ va adauga o nota in vector. Alocam spatiu pentru un nou vector(cu lungimea egala cu vectorul vechi +1). Pe ultima pozitie din noul vector punem nota noua. Si modificam referinta sa nu mai pointeze catre vechiul vector ci catre noul vector.*<br>
 ```cpp
    public static Student operator+ (Student s, int notaNoua)
@@ -152,7 +160,7 @@ public float calculeazaMedie()
     }
 ```
 
- 7️⃣**PAS 7: OPERATOR++**</br>
+8️⃣**PAS 8: OPERATOR++**</br>
 *Si acest operator++ apeleaza operatorul+ de mai sus si o sa ii adauge Studentului nota 1.*<br>
 ```cpp
            public static Student operator++(Student s)
@@ -162,7 +170,7 @@ public float calculeazaMedie()
 ```
 
 
- 8️⃣**PAS 8: OPERATOR CAST**</br>
+9️⃣**PAS 9: OPERATOR CAST**</br>
 *Facem CAST LA FLOAT ca sa facem o medie din vectorul de note.*</br>
 **OPERATORUL CAST SE RECOMANDA SA SE IMPLEMENTEZE EXPLICIT. ❗⚠️ Daca se implementeaza varianta implicita peste tot unde va intalni numaele obiectului (s1, s2) il va transforma intr-o medie (va face cast la float) si in loc sa imi arate datele despre student, o sa imi afiseze doar notele studentului.⚠️❗
 📕 SINTAXA OPERATOR CAST: 📕 
@@ -184,8 +192,8 @@ public float calculeazaMedie()
         } 
 ```
 
- 9️⃣**PAS 9: OPERATOR INDEX**</br>
-**<br>
+🔟**PAS 10: OPERATOR INDEX**</br>
+**Operatorul index nu are nume si este singurul operatorul care se implementeaza ca o `proprietate`**<br>
 ```cpp
        public int this[int index]
         {
@@ -204,4 +212,58 @@ public float calculeazaMedie()
         }
 ```
 ### 🟢🟢🟢🟢🟢🟢🟢🟢🟢 CLASA PROGRAM.CS - Functia Static Void Main🟢🟢🟢🟢🟢🟢🟢🟢🟢
+1️⃣1️⃣**PAS 11: Instantiere STUDENT folosind constructorul implicit si constructorul cu parametri**</br>
+```cpp
+ Student s1 = new Student();
+ Student s2 = new Student(123, 'M', 21, "Gigel", new int[3] { 8, 9, 10 });
+```
 
+1️⃣2️⃣**PAS 12: Instantiere Student folosind metoda clone.**</br>
+```cpp
+   Student s3 = (Student)s2.Clone();
+```
+
+1️⃣3️⃣**PAS 13: Apelare TO STRING pentru toate obiectele**</br>
+```cpp
+       Console.WriteLine(s1);
+       Console.WriteLine(s2);
+       Console.WriteLine(s3);
+```
+
+1️⃣4️⃣**PAS 14: Apelare supraincarcare OPERATOR+**</br>
+```cpp
+ s2 = s2 + 10; //Mai adaugam nota 10 in vectorul de note
+ s2 += 5;      //Adaugam nota 5 in vector
+ s2++;         //Adaugam nota 1 in vector
+ 
+Console.WriteLine(s2);
+Console.WriteLine(s3);
+```
+
+1️⃣5️⃣**PAS 15: Apelare metoda abstracta `spuneVarsta`**</br>
+```cpp
+s3.spuneAnNastere();
+```
+
+1️⃣6️⃣**PAS 16: Apelare PROPRIETATE INDEX **</br>
+🔴 GETER </br>
+```cpp
+Console.WriteLine("A 5-a nota a lui s2: " + s2[4]);
+```
+🔴SETER </br>
+```cpp
+   s2[5] = 5;
+   Console.WriteLine(s2);
+```
+
+1️⃣7️⃣**PAS 17: Lista de Studenti - Sortare (apelare implicit CompareTo)**</br
+*Ne creem o lsita de studenti in care adaugam toti studentii creati, apoi sortam lista de studenti descresctor.*</br>
+```cpp
+List<Student> listaStud = new List<Student>();
+listaStud.Add(s1);
+listaStud.Add(s2);
+listaStud.Add(s3);
+listaStud.Sort();
+  foreach (Student s in listaStud)
+           Console.WriteLine(s);
+```
