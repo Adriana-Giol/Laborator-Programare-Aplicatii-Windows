@@ -1,4 +1,4 @@
-# 🎯 CLASA ASBTRACTADE BAZA PERSOANA </br>
+# 🎯 CLASA ASBTRACTA - DE BAZA PERSOANA </br>
 ### 🔮[Cod Sursa](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/1.%20Laborator/2.%20Seminar%202/%5BClean%5DCiurea_Seminar2_1046/Animal.cs)🔮
 ### 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠 CLASA PERSOANA.CS 🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠
 1️⃣**PAS 1: Click drepta pe proiect -> Add -> New Item -> Class**</br>
