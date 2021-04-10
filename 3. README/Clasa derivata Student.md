@@ -132,10 +132,76 @@ public float calculeazaMedie()
 
 ```
 
-6️⃣ **PAS 6: METODA ABSTRACTA**</br>
-*Metoda care se va implementa in clasa derivata.*<br>
+6️⃣ **PAS 6: OPERATOR+**</br>
+*Operatorul+ va adauga o nota in vector. Alocam spatiu pentru un nou vector(cu lungimea egala cu vectorul vechi +1). Pe ultima pozitie din noul vector punem nota noua. Si modificam referinta sa nu mai pointeze catre vechiul vector ci catre noul vector.*<br>
 ```cpp
-    public abstract void spuneAnNastere();
+   public static Student operator+ (Student s, int notaNoua)
+        {
+            int[] noteNoi = new int[s.note.Length + 1];
+            for (int i = 0; i < s.note.Length; i++)
+                noteNoi[i] = s.note[i];
+            noteNoi[noteNoi.Length - 1] = notaNoua;
+            s.note = noteNoi;
+            return s;
+        }
+```
+**Varianta comutativa pentru operator+ va apela supraincarcarea de mai sus:**</br>
+```cpp
+ public static Student operator+ (int notaNoua, Student s) {
+    return s + notaNoua; 
+    }
+```
+
+ 7️⃣**PAS 7: OPERATOR++**</br>
+*Si acest operator++ apeleaza operatorul+ de mai sus si o sa ii adauge Studentului nota 1.*<br>
+```cpp
+           public static Student operator++(Student s)
+        {
+            return s + 1;
+        }
+```
+
+
+ 8️⃣**PAS 8: OPERATOR CAST**</br>
+*Facem CAST LA FLOAT ca sa facem o medie din vectorul de note.*</br>
+**OPERATORUL CAST SE RECOMANDA SA SE IMPLEMENTEZE EXPLICIT. ❗⚠️ Daca se implementeaza varianta implicita peste tot unde va intalni numaele obiectului (s1, s2) il va transforma intr-o medie (va face cast la float) si in loc sa imi arate datele despre student, o sa imi afiseze doar notele studentului.⚠️❗
+📕 SINTAXA OPERATOR CAST: 📕 
+      1. `public static explicit`.
+      2. Nu are tip returnat pentru ca tipul returnat este numele functiei.
+      3. `operator` tipul de date catre care fac cast.
+```cpp
+  public static explicit operator float(Student s)
+        {
+            if (s.note != null)
+            {
+                int suma = 0;
+                for (int i = 0; i < s.note.Length; i++)
+                    suma += s.note[i];
+                return (float)suma / s.note.Length;
+            }
+            else
+                return 0;
+        } 
+```
+
+ 9️⃣**PAS 9: OPERATOR INDEX**</br>
+**<br>
+```cpp
+       public int this[int index]
+        {
+            get
+            {
+                if (note != null && index >= 0 && index < note.Length)
+                    return note[index];
+                else
+                    return 0;
+            }
+            set
+            {
+                if (value > 0 && value <= 10 && index >= 0 && index < note.Length)
+                    note[index] = value;
+            }
+        }
 ```
 ### 🟢🟢🟢🟢🟢🟢🟢🟢🟢 CLASA PROGRAM.CS - Functia Static Void Main🟢🟢🟢🟢🟢🟢🟢🟢🟢
 
