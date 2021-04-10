@@ -33,6 +33,7 @@
             esteVeninos = este;
         }
 ```
+⚠️ Clasa Sarpe va mosteni implementarile ICloneable si IComparable de la clasa Animal si asta inseamna ca pot compara si sarpii dupa greutate si apoi dupa nume.
 
 5️⃣ **PAS 5: SUPRAINCARCARE FUNCTIE TO STRING**</br>
 ⚠️*Daca nu supraincarcam functia to String in clasa mostenita, putem sa afisam doar atributele mostenite din clasa Animal, fara sa putem afisa si atributele clasei Sarpe.*</br>
