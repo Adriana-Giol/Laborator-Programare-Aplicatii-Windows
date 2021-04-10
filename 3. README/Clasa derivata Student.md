@@ -172,7 +172,7 @@ public float calculeazaMedie()
 
 9️⃣**PAS 9: OPERATOR CAST**</br>
 *Facem CAST LA FLOAT ca sa facem o medie din vectorul de note.*</br>
-**OPERATORUL CAST SE RECOMANDA SA SE IMPLEMENTEZE EXPLICIT. ❗⚠️ Daca se implementeaza varianta implicita peste tot unde va intalni numaele obiectului (s1, s2) il va transforma intr-o medie (va face cast la float) si in loc sa imi arate datele despre student, o sa imi afiseze doar notele studentului.⚠️❗
+**OPERATORUL CAST SE RECOMANDA SA SE IMPLEMENTEZE EXPLICIT. ❗⚠️ Daca se implementeaza varianta implicita peste tot unde va intalni numaele obiectului (s1, s2) il va transforma intr-o medie (va face cast la float) si in loc sa imi arate datele despre student, o sa imi afiseze doar notele studentului.**⚠️❗</br>
 📕 SINTAXA OPERATOR CAST: 📕 
       1. `public static explicit`.
       2. Nu are tip returnat pentru ca tipul returnat este numele functiei.
