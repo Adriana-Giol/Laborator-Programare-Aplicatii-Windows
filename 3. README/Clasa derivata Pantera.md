@@ -53,5 +53,9 @@
             return base.ToString() + " culoarea " + culoare + " si este hranita " + esteHranita;
         }
 ```
-
+### 🟢🟢🟢🟢🟢🟢🟢🟢🟢 CLASA PROGRAM.CS - Functia Static Void Main🟢🟢🟢🟢🟢🟢🟢🟢🟢
+7️⃣**PAS 7: Instantiere Pantera folosind constructorul cu parametri**</br>
+```cpp
+ Pantera p1 = new Pantera(15, "Pantera Roz", 50, "roz", true);
+```
 
