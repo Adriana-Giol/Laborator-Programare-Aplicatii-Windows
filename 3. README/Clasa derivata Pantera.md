@@ -42,9 +42,10 @@
         public string Culoare { get => culoare; set => culoare = value; }
         public bool EsteHranita { get => esteHranita; set => esteHranita = value; }
 ```
-⚠️*Daca nu supraincarcam functia to String in clasa mostenita, putem sa afisam doar atributele mostenite din clasa Animal, fara sa putem afisa si atributele clasei Pantera.*</br>
+
 
 6️⃣**PAS 6: SUPRAINCARCARE FUNCTIE TO STRING**</br>
+⚠️*Daca nu supraincarcam functia to String in clasa mostenita, putem sa afisam doar atributele mostenite din clasa Animal, fara sa putem afisa si atributele clasei Pantera.*</br>
 *Pastram base.ToString() care va apela ToString din clasa Animal.*</br>
 ```cpp
   public override string ToString()
