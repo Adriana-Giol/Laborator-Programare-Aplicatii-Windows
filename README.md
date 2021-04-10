@@ -14,15 +14,17 @@
    - Functie de afisare clasica / To String
  
  ## II. Laborator 2 - Ierarhie de clase:
-  ✔️[1. Clasa Animal](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Animal.md)
+  ✔️[1. Clasa Animal](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)
    - Definire atribute
    - Constructor implicit / cu parametri / ~~de copiere~~
    - Proprietati (functii accesor) 
    - To String
    - ICloneable / IComparable
   
-  ✔️[2. Clasa Zoo]()
-  ✔️[3. Clasa derivata Pantera]()
+  ✔️[2. Clasa derivata Pantera](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera)
+   - 
+  ✔️[3. Clasa Zoo]()
+
   ✔️[4. Clasa derivata Sarpe]()
  
     
