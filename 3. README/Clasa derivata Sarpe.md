@@ -34,7 +34,7 @@
         }
 ```
 
-5️⃣ **PAS 5: SUPRAINCARCARE FUNCTIE TO STRING **</br>
+5️⃣ **PAS 5: SUPRAINCARCARE FUNCTIE TO STRING**</br>
 ⚠️*Daca nu supraincarcam functia to String in clasa mostenita, putem sa afisam doar atributele mostenite din clasa Animal, fara sa putem afisa si atributele clasei Sarpe.*</br>
 *Pastram base.ToString() care va apela ToString din clasa Animal*</br>
 ```cpp
