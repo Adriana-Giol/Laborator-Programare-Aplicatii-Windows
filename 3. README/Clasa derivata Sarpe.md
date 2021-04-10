@@ -44,3 +44,8 @@
             return base.ToString() + " lungimea " + lungime + " si este veninos " + esteVeninos;
         }
 ```
+### 🟢🟢🟢🟢🟢🟢🟢🟢🟢 CLASA PROGRAM.CS - Functia Static Void Main🟢🟢🟢🟢🟢🟢🟢🟢🟢
+6️⃣**PAS 6: Instantiere Sarpe folosind constructorul cu parametri**</br>
+```cpp
+   Sarpe s1 = new Sarpe(20, "Python", 40, 5, false);
+```
