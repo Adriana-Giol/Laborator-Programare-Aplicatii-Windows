@@ -132,7 +132,7 @@ Scopul implementarii compareTo este de a permite sortarea de obiecte pentru a pu
  Animal a2 = new Animal(10, "Zoro", 150);
 ```
 
-🔟**PAS 10: Instantiere Animal folosind constructorul de copiere**</br>
+🔟**PAS 10: Instantiere Animal folosind metoda clone.**</br>
 ```cpp
   Animal a3 = (Animal)a2.Clone();
 ```
