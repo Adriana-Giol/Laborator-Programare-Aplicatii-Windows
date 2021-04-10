@@ -56,7 +56,10 @@
    - Proprietati (functii accesor) 
    - To String
    - Ooperator: +, ++, cast, INDEX
+   
   ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)</br>
+  ✔️[4. Formular](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)</br>
+  
  
     
 ## 💻[PROIECT](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Proiect.md)
