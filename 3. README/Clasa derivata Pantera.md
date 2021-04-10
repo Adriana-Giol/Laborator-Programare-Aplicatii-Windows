@@ -12,7 +12,7 @@
         private bool esteHranita;
     }
 ```
-⚠️⚠️ **GENERARE CONSTRUCTORI / PROPRIETATI: Click drepta pe CLASA /atributele din clasa -> Quick Actions and Refactorings -> Generate Constructor/ Generate Overrides /Encapsulate field:...(but still use field)** ⚠️⚠️</br>
+⚠️⚠️ **GENERARE CONSTRUCTORI / PROPRIETATI: Click drepta pe CLASA /atributele din clasa -> Quick Actions and Refactorings -> Generate Constructor/ Generate Overrides /Encapsulate field:...(but still use field) - Generare cu Lambda** ⚠️⚠️</br>
 
 3️⃣**PAS 3: CONSTRUCTORUL IMPLICIT**</br>
 *Constructorul implicit din clasa Pantera trebuie sa apele constructorul implicit din clasa Animal ca sa initializeze cele 3 atribute mostenite din clasa Animal.*</br>
