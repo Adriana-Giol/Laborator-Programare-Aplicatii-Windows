@@ -58,7 +58,7 @@
 ```cpp
     class Zoo : ICloneable
 ```
-⚠️**Lista de animale trebuie sa fie tratata setarat**</br>
+⚠️**Lista de animale trebuie sa fie tratata separat deoarece metoda MemberwiseClone() nu stie sa trateze obiecte care incapsuleaza alte obiecte.**</br>
 ```cpp
   public object Clone()
         {
