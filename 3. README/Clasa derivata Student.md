@@ -28,6 +28,7 @@
   <details open>
   <p>
   <summary>🟠Clasa Student implementeaza ICloneable 💡 Implement Interface </br></summary>
+  ⚠️**Daca clasa include printre atribute vector sau colectii atunci trebuie sa facem DEEP COPY TOTAL - creeam o noua clona caruia ii alocam spatiu conform vectorului original, transfer referinta vectorului original -> vectorul clona si returnez clona. Astfel cele 2 obiecte nu mai partajeaza acelesi vector.**</br>
   
   ```cpp
    //Implementare metoda CLONE
