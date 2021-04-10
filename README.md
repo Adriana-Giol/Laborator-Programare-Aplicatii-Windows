@@ -44,7 +44,12 @@
    - Ooperator INDEX
 
 ## 📕📒📘III. Laborator 3 - [Console App + Windows Forms]:
-  ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Persoana.md)</br>
+  ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)</br>
+   - Definire atribute
+   - Constructor implicit / cu parametri
+   - To String
+   - Metoda abstracta (spuneAnNastere)
+ 
   ✔️[2. Clasa derivata Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)</br>
   ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)</br>
  
