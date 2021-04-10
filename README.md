@@ -51,6 +51,11 @@
    - Metoda abstracta (spuneAnNastere)
  
   ✔️[2. Clasa derivata Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)</br>
+   - Definire atribute / ICloneable, IComparable, IMedia
+   - Constructor implicit / cu parametri
+   - Proprietati (functii accesor) 
+   - To String
+   - Ooperator: +, ++, cast, INDEX
   ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)</br>
  
     
