@@ -73,12 +73,30 @@
             return clona;
         }
 ```
+7️⃣**PAS 7: Supraincarcare Operator Index**</br>
+*Se supraincarca sub forma unei proprietati si implementam aici operatorul index pentru ca in clasa ZOO avem o colectie, dar daca nu aveam o colectie nu puteam sa il implementam deoarece nu aveam ce sa iterez.*</br>
+🔴**Tipul returnat o sa fie Animal - deoarece eu returnez din lista de animale, animalul de pe o anumita pozitie.**</br>
+🟠**Numele functiei va fi `this` pentru ca nu are nume**</br>
+🟡**Ca parametri va primi un [int index] => nu e obligatoriu sa fie de tip Int, ci poate sa fie si de tip String si atunci pot sa reper z[2]Grivei (inseamna ca din lista de animale eu vreau sa il extrag pe Grivei.**</br>
+```cpp
+   public Animal this[int index]
+        {
+            get
+            {
+                if (index >= 0 && index < listaAnimale.Count && listaAnimale != null)
+                    return listaAnimale[index];
+                else
+                    return null;
+            }
+        }
+```
+
 ### 🟢🟢🟢🟢🟢🟢🟢🟢🟢 CLASA PROGRAM.CS - Functia Static Void Main🟢🟢🟢🟢🟢🟢🟢🟢🟢
-7️⃣**PAS 7: Instantiere ZOO folosind constructorul implicit**</br>
+8️⃣**PAS 8: Instantiere ZOO folosind constructorul implicit**</br>
 ```cpp
    Zoo z1 = new Zoo();
 ```
-8️⃣**PAS 8: Adaugam toate animalele in lista de animale**</br>
+9️⃣**PAS 9: Adaugam toate animalele in lista de animale**</br>
 ```cpp
  z1.ListaAnimale.Add(a1);
  z1.ListaAnimale.Add(a2);
@@ -86,22 +104,22 @@
  z1.ListaAnimale.Add(p1);
  z1.ListaAnimale.Add(s1);
 ```
-9️⃣**PAS 9: Cream o alta gradina Zoo pe baza primei gradini Zoologice**</br>
+🔟**PAS 10: Cream o alta gradina Zoo pe baza primei gradini Zoologice**</br>
 ```cpp
    Zoo z2 = (Zoo)z1.Clone();
 ```
-🔟**PAS 10: Schimbam denumirea lui Z2**</br>
+1️⃣1️⃣**PAS 11: Schimbam denumirea lui Z2**</br>
 ```cpp
  z2.Denumire = "Berlin";
  ```
-1️⃣1️⃣**PAS 11: Daca vreau sa schimb colectia de animale din z2**</br>
+1️⃣2️⃣**PAS 12: Daca vreau sa schimb colectia de animale din z2**</br>
 ```cpp
   foreach (Animal a in z2.ListaAnimale)
        a.Nume += " copie";
 ```
 
-1️⃣2️⃣**PAS 12: Testare sortare (CompareTo) si Afisare (ToString)**</br>
-*In cazul sortarii se apeleaza CompareTo din clasa Animal*</br>
+1️⃣3️⃣**PAS 13: Testare sortare (CompareTo) si Afisare (ToString)**</br>
+*In cazul sortarii se apeleaza CompareTo din clasa Animal. Daca nu includem IComparable in clasa de baza ne da eroare.*</br>
 ```cpp
  z1.ListaAnimale.Sort();
  z2.ListaAnimale.Sort();
@@ -109,5 +127,8 @@
 Console.WriteLine(z1);
 Console.WriteLine(z2);
 ```
-
+1️⃣4️⃣**PAS 14: Apelare Operator INDEX**</br>
+```cpp
+ Console.WriteLine(z2[3]);
+```
 
