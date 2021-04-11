@@ -78,7 +78,15 @@
   
  <details open>
  <p>
- <summary>📕Laborator 4 - [Windows Forms] </summary>
+ <summary>📕Laborator 4 - [Windows Forms App.NET Framewrok] </summary>
+  
+  Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items
+  ⚠️ATENTIE LA NAMESPACE SA FIE LA FEL CU CEL AL PROIECTULUI
+  ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)
+  ✔️[2. Clasa derivata Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)
+  ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)
+  ✔️[4. Formular1 - Update](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/edit/main/3.%20README/S4.Formular1)
+  
   
   </p>
   </details>
