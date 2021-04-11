@@ -1,5 +1,8 @@
 # Programare Aplicatii Windows 
-## 📕📒📘I. Laborator 1 - [Console App]:
+<details open>
+ <p>
+ <summary> 📕📒📗I. Laborator 1 - Notiuni Introductive - [Console App]</summary>
+  
  ✔️[1. Particularitatile limbajului C#](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)</br>
    - Afisare si citire pentru aplicatii tip consola 
    - Vector
@@ -11,8 +14,13 @@
    - Constructor implicit / cu parametri / de copiere
    - Proprietati (functii accesor) 
    - Functie de afisare clasica / To String
+ </p>
+ </details>
  
- ## 📕📒📘II. Laborator 2 - Ierarhie de clase - [Console App]:
+ <details open>
+ <p>
+  <summary> 📕📒📗II. Laborator 2 - Ierarhie de clase - [Console App]</summary>
+
   ✔️[1. Clasa Animal](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)
    - Definire atribute
    - Constructor implicit / cu parametri / ~~de copiere~~
@@ -41,8 +49,13 @@
    - To String
    - ICloneable
    - Ooperator INDEX
-
-## 📕📒📘III. Laborator 3 - [Console App + Windows Forms]:
+   
+   </p>
+   </details>
+   
+  <details open>
+  <p>
+   <summary>📕📒📗III. Laborator 3 - [Console App + Windows Forms]:</summary>
   ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)</br>
    - Definire atribute
    - Constructor implicit / cu parametri
@@ -59,13 +72,31 @@
   ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)</br>
   ✔️[4. Formular](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)</br>
   
-  ## 📕📒📘III. Laborator 4 - [Windows Forms]:
-  ## 📕📒📘III. Laborator 5 - [Windows Forms]:
+  </p>
+  </details>
+  
+ <details open>
+ <p>
+ <summary>📕📒📗III. Laborator 4 - [Windows Forms] </summary>
+  
+  </p>
+  </details>
+  
+ <details open>
+ <p>
+  <summary>📕📒📗III. Laborator 5 - [Windows Forms]</summary>
+
   ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular1.md)
   ✔️[2. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular2.md)
        [Fisier XML](https://bnro.ro/nbrfxrates.xml)
        
-   ## 📕📒📘III. Laborator 6 - [Windows Forms]:
+ </p>
+ </details>
+ 
+ <details open>
+ <p>
+  <summary>📕📒📗III. Laborator 6 - [Windows Forms]</summary>
+  
   ✔️[1. Formular2 - Update Seminar5](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)
   ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)
   ✔️[3. Formular3 ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)
@@ -73,8 +104,15 @@
   ### Proiect Nou
   ✔️[4. ]()
   
+  </p>
+  </details>
   
-   ## 📕📒📘III. Laborator 7 - [Windows Forms]:
+ <details open>
+ <p>
+  <summary>📕📒📘III. Laborator 7 - [Windows Forms]<Summary>
+   
+   </p>
+   </details>
   
   
 ## 💻[PROIECT](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Proiect.md)
