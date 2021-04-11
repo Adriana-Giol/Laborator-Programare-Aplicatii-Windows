@@ -61,7 +61,7 @@
   
  
   ## 📕📒📘III. Laborator 5 - [Windows Forms]:
-  ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/edit/main/3.%20README/S5.Formular1.md)
+  ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular1.md)
   ✔️[2. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular2.md)
   
   [Fisier XML](https://bnro.ro/nbrfxrates.xml)
