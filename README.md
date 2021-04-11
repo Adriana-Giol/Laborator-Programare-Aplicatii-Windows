@@ -66,7 +66,9 @@
        [Fisier XML](https://bnro.ro/nbrfxrates.xml)
        
    ## 📕📒📘III. Laborator 6 - [Windows Forms]:
-  ✔️[1. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)
+  ✔️[1. Formular2 - Update Seminar5](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)
+  ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)
+  
    ## 📕📒📘III. Laborator 7 - [Windows Forms]:
   
   
