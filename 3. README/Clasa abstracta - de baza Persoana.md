@@ -6,7 +6,7 @@
 2️⃣**PAS 2: DEFINIRE ATRIBUTE**</br>
 *Vom face atributele PROTECTED deoarece fiind clasa abstracta vom deriva alte clase din aceasta clasa si astfel asiguram vizibilitatea acestor atribute in clasele derivate.De aceea nu mai avem nevoie nici de PROPRIETATI deoarece avand atributele protected ele vor fi vizibile in clasele derivate.*</br>
 ```cpp
-   abstract class Persoana
+   public abstract class Persoana
     {
         protected int cod;
         protected char sex;
