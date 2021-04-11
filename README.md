@@ -1,7 +1,6 @@
 # Programare Aplicatii Windows 
 ## 📕📒📘I. Laborator 1 - [Console App]:
  ✔️[1. Particularitatile limbajului C#](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)</br>
- 
    - Afisare si citire pentru aplicatii tip consola 
    - Vector
    - Shallow Copy / Deep Copy 
@@ -61,7 +60,13 @@
   ✔️[4. Formular](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)</br>
   
  
-    
+  ## 📕📒📘III. Laborator 5 - [Windows Forms]:
+  ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/edit/main/3.%20README/S5.Formular1.md)
+  ✔️[2. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular2.md)
+  
+  [Fisier XML](https://bnro.ro/nbrfxrates.xml)
+  
+  
 ## 💻[PROIECT](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Proiect.md)
     
   *Doar o parte din operatori se pot supraincarca in C#  si toate functii de supraincarcare vor fi niste functii statice (global vazute la nivelul clasei) si din acest motiv nu o sa putem sa lucram in cadrul functiilor respective cu referinta this. De aceea tot timpul o sa am nevoie de 2 operatori: un obiect din clasa si apoi pot sa mai primesc un alt obiect sau o variabila de tip fundamentala. Comutativitatea si aici inu are sens si trebuie sa implementam ambele forme.
