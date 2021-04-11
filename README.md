@@ -59,12 +59,14 @@
   ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)</br>
   ✔️[4. Formular](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)</br>
   
- 
+  ## 📕📒📘III. Laborator 4 - [Windows Forms]:
   ## 📕📒📘III. Laborator 5 - [Windows Forms]:
   ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular1.md)
   ✔️[2. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular2.md)
-  
-  [Fisier XML](https://bnro.ro/nbrfxrates.xml)
+       [Fisier XML](https://bnro.ro/nbrfxrates.xml)
+       
+   ## 📕📒📘III. Laborator 6 - [Windows Forms]:
+   ## 📕📒📘III. Laborator 7 - [Windows Forms]:
   
   
 ## 💻[PROIECT](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Proiect.md)
