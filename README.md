@@ -19,7 +19,7 @@
  
  <details open>
  <p>
-  <summary> 📗Laborator 2 - [Console App] - Ierarhie de clase</summary>
+  <summary> 📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]</summary>
 
   ✔️[1. Clasa Animal](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)
    - Definire atribute
@@ -55,7 +55,7 @@
    
   <details open>
   <p>
-   <summary>📗Laborator 3 - [Console App + Windows Forms]:</summary>
+   <summary>📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]</summary>
    
   ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)</br>
    - Definire atribute
