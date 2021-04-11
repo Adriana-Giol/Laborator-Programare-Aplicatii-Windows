@@ -8,7 +8,7 @@
 *Fiecare atribut are propriul modificator de acces - default e `private`*. </br>
 *Protected ramane cu aceeasi utilitate ca si in C++, adica extinde vizibilitatea atributului si in cadrul claselor derivate. In C# si Java nu exista derivare multipla.*</br>
 ```cpp
- class Student
+ public class Student
     {
         private int cod;
         private string nume;
