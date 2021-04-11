@@ -82,11 +82,11 @@
   
   Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items</br>
   ⚠️ATENTIE LA NAMESPACE SA FIE LA FEL CU CEL AL PROIECTULUI</br>
-  ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)
-  ✔️[2. Clasa derivata Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)
-  ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)
-  ✔️[4. Formular1 - Update](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/edit/main/3.%20README/S4.Formular1)
-  ✔️[5. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular2.md)
+  ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)</br>
+  ✔️[2. Clasa derivata Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)</br>
+  ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)</br>
+  ✔️[4. Formular1 - Update](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/edit/main/3.%20README/S4.Formular1)</br>
+  ✔️[5. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular2.md)</br>
   
   
   </p>
@@ -97,8 +97,8 @@
   <summary>📗Laborator 5 - [Windows Forms] - Fisier XML</summary>
   
   [Fisier XML](https://bnro.ro/nbrfxrates.xml)
-  ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular1.md)
-  ✔️[2. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular2.md)
+  ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular1.md)</br>
+  ✔️[2. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular2.md)</br>
       
        
  </p>
@@ -108,9 +108,9 @@
  <p>
   <summary>📒Laborator 6 - [Windows Forms] - Error Provider</summary>
   
-  ✔️[1. Formular2 - Update Seminar5](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)
-  ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)
-  ✔️[3. Formular3 ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)
+  ✔️[1. Formular2 - Update Seminar5](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)</br>
+  ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)</br>
+  ✔️[3. Formular3 ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)</br>
   
   ### Proiect Nou
   ✔️[4. ]()
