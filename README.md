@@ -78,7 +78,7 @@
   
  <details open>
  <p>
- <summary>📕Laborator 4 - [Windows Forms App.NET Framewrok] </summary>
+ <summary>📕Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar </summary>
   
   Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items</br>
   ⚠️ATENTIE LA NAMESPACE SA FIE LA FEL CU CEL AL PROIECTULUI</br>
