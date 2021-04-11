@@ -1,7 +1,7 @@
 # Programare Aplicatii Windows 
 <details open>
  <p>
- <summary> 📕📒📗I. Laborator 1 - Notiuni Introductive - [Console App]</summary>
+ <summary> 📕📒📗I. Laborator 1 - [Console App] - Notiuni Introductive</summary>
   
  ✔️[1. Particularitatile limbajului C#](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)</br>
    - Afisare si citire pentru aplicatii tip consola 
@@ -19,7 +19,7 @@
  
  <details open>
  <p>
-  <summary> 📕📒📗II. Laborator 2 - Ierarhie de clase - [Console App]</summary>
+  <summary> 📕📒📗II. Laborator 2 - [Console App] - Ierarhie de clase</summary>
 
   ✔️[1. Clasa Animal](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)
    - Definire atribute
@@ -56,6 +56,7 @@
   <details open>
   <p>
    <summary>📕📒📗III. Laborator 3 - [Console App + Windows Forms]:</summary>
+   
   ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)</br>
    - Definire atribute
    - Constructor implicit / cu parametri
@@ -84,18 +85,19 @@
   
  <details open>
  <p>
-  <summary>📕📒📗III. Laborator 5 - [Windows Forms]</summary>
-
+  <summary>📕📒📗III. Laborator 5 - [Windows Forms] - Fisier XML</summary>
+  
+  [Fisier XML](https://bnro.ro/nbrfxrates.xml)
   ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular1.md)
   ✔️[2. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular2.md)
-       [Fisier XML](https://bnro.ro/nbrfxrates.xml)
+      
        
  </p>
  </details>
  
  <details open>
  <p>
-  <summary>📕📒📗III. Laborator 6 - [Windows Forms]</summary>
+  <summary>📕📒📗III. Laborator 6 - [Windows Forms] - Error Provider</summary>
   
   ✔️[1. Formular2 - Update Seminar5](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)
   ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)
