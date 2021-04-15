@@ -124,6 +124,13 @@
    
    </p>
    </details>
+   
+    <details open>
+ <p>
+  <summary>📕Laborator 8 - [Windows Forms] - Grafic<Summary>
+   
+   </p>
+   </details>
   
   
 ## 💻[PROIECT](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Proiect.md)
