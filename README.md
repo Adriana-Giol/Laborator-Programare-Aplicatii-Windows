@@ -1,10 +1,10 @@
 # Programare Aplicatii Windows 
-## [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
+# [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
 **[✔️ Paticularitati limbaj C#:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)** 🔴Afisare si citire pentru aplicatii tip consola 🟠Vector 🟡Shallow Copy / Deep Copy 🟢Matrice bi-dimensionala.</br>
 **[✔️ Clasa Student:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri / de copiere 🟡Proprietati (functii accesor) 🟢Functie de afisare clasica / To String.</br>
  
 
-## [📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/2.%20Laborator2%20-%20Ierarhie%20de%20clase%5BZoo%5D.md)
+# [📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/2.%20Laborator2%20-%20Ierarhie%20de%20clase%5BZoo%5D.md)
 
   **[✔️1. Clasa Animal:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri / ~~de copiere~~🟡Proprietati (functii accesor) 🟢To String 🔵ICloneable / IComparable 🟣Operator+
 
@@ -14,7 +14,7 @@
 
   **[✔️4. Clasa Zoo - Colectie de Animale](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)** 🔴Definire atribute 🟠Constructor implicit 🟡Proprietati (functii accesor) 🟢To String 🔵ICloneable 🟣Ooperator INDEX
    
-  ## [📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/3.%20Laborator3%20-%20Ierarhie%20de%20clase%5BStudent%5D.md)
+  # [📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/3.%20Laborator3%20-%20Ierarhie%20de%20clase%5BStudent%5D.md)
    
   **[✔️1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟡To String 🟢Metoda abstracta (spuneAnNastere)
  
@@ -23,7 +23,7 @@
   **[✔️3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)**</br>
   **[✔️4. Formular](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)**
   
-## 📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar
+# 📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar
   
   Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items</br>
   ⚠️ATENTIE LA NAMESPACE SA FIE LA FEL CU CEL AL PROIECTULUI</br>
@@ -33,13 +33,13 @@
   ✔️[4. Formular1 - Update](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular1.md)</br>
   ✔️[5. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular2.md)</br>
   
-## [📗Laborator 5 - [Windows Forms] - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20%20Laborator%205%20-%20Fisier%20XML.md)
+# [📗Laborator 5 - [Windows Forms] - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20%20Laborator%205%20-%20Fisier%20XML.md)
   
   [Fisier XML](https://bnro.ro/nbrfxrates.xml)</br>
   [✔️1. Formular1 - Parsare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Parsare%20Fisier%20XML.md)</br>
   [✔️[2. Formular1 - Generare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Generare%20Fisier%20XML.md)</br>
       
-## 📒Laborator 6 - [Windows Forms] - Error Provider
+# 📒Laborator 6 - [Windows Forms] - Error Provider
   
   ✔️[1. Formular2 - Update Seminar5](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)</br>
   ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)</br>
@@ -48,9 +48,9 @@
   ### Proiect Nou
   ✔️[4. ]()
   
-## 📕Laborator 7 - [Windows Forms]
+# 📕Laborator 7 - [Windows Forms]
    
-## 📕Laborator 8 - [Windows Forms] - Grafic
+# 📕Laborator 8 - [Windows Forms] - Grafic
    
    </p>
    </details>
