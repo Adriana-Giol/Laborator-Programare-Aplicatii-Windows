@@ -37,7 +37,7 @@
   
   [Fisier XML](https://bnro.ro/nbrfxrates.xml)</br>
   [✔️1. Formular1 - Parsare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Parsare%20Fisier%20XML.md)</br>
-  [✔️[2. Formular1 - Generare Fisier XML]()</br>
+  [✔️[2. Formular1 - Generare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Generare%20Fisier%20XML.md)</br>
       
 ## 📒Laborator 6 - [Windows Forms] - Error Provider
   
