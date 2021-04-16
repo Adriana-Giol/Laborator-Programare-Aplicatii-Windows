@@ -1,39 +1,18 @@
 # Programare Aplicatii Windows 
 ## [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
-**[- Paticularitati limbaj C#:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)** 🔴Afisare si citire pentru aplicatii tip consola 🟠Vector 🟡Shallow Copy / Deep Copy 🟢Matrice bi-dimensionala.</br>
-**[- Clasa Student:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri / de copiere 🟡Proprietati (functii accesor) 🟢Functie de afisare clasica / To String.</br>
+**[✔️ Paticularitati limbaj C#:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)** 🔴Afisare si citire pentru aplicatii tip consola 🟠Vector 🟡Shallow Copy / Deep Copy 🟢Matrice bi-dimensionala.</br>
+**[✔️ Clasa Student:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri / de copiere 🟡Proprietati (functii accesor) 🟢Functie de afisare clasica / To String.</br>
  
 
-## 📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]
+## [📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/2.%20Laborator2%20-%20Ierarhie%20de%20clase%5BZoo%5D.md)
 
-  ✔️[1. Clasa Animal](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)
-   - Definire atribute
-   - Constructor implicit / cu parametri / ~~de copiere~~
-   - Proprietati (functii accesor) 
-   - To String
-   - ICloneable / IComparable
-   - Operator+
+  **[✔️1. Clasa Animal:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri / ~~de copiere~~🟡Proprietati (functii accesor) 🟢To String 🔵ICloneable / IComparable 🟣Operator+
 
-  ✔️[2. Clasa derivata Pantera](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera.md)
-   - Definire atribute
-   - Constructor implicit / cu parametri 
-   - Proprietati (functii accesor) 
-   - To String</br>
-   - *ICloneable / IComparable - mostenite din clasa Animal*
+  **[✔️2. Clasa derivata Pantera:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟡Proprietati (functii accesor) 🟢To String 🔵*ICloneable / IComparable - mostenite din clasa Animal
 
-  ✔️[3. Clasa derivata Sarpe](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Sarpe.md)
-   - Definire atribute
-   - Constructor implicit / cu parametri 
-   - To String </br>
-   -*ICloneable / IComparable - mostenite din clasa Animal*
+  **[✔️3. Clasa derivata Sarpe](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Sarpe.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟡To String 🟢*ICloneable / IComparable - mostenite din clasa Animal
 
-  ✔️[4. Clasa Zoo - Colectie de Animale](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)
-   - Definire atribute
-   - Constructor implicit 
-   - Proprietati (functii accesor) 
-   - To String
-   - ICloneable
-   - Ooperator INDEX
+  **[✔️4. Clasa Zoo - Colectie de Animale](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)** 🔴Definire atribute 🟠Constructor implicit 🟡Proprietati (functii accesor) 🟢To String 🔵ICloneable 🟣Ooperator INDEX
    
   ## 📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]
    
