@@ -37,15 +37,13 @@
   
   [Fisier XML](https://bnro.ro/nbrfxrates.xml)</br>
   [✔️1. Formular1 - Parsare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Parsare%20Fisier%20XML.md)</br>
-  [✔️[2. Formular1 - Generare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Generare%20Fisier%20XML.md)</br>
+  [✔️2. Formular1 - Generare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Generare%20Fisier%20XML.md)</br>
       
 # 📒Laborator 6 - [Windows Forms] - Error Provider
   
-  ✔️[1. Formular2 - Update Seminar5](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)</br>
+  ✔️[1. Formular2 - Update Seminar5 - Error Provider](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)</br>
   ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)</br>
   ✔️[3. Formular3 ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)</br>
-  
-  ### Proiect Nou
   ✔️[4. ]()
   
 # 📕Laborator 7 - [Windows Forms]
