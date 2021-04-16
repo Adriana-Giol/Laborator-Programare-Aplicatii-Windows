@@ -1,17 +1,8 @@
 # Programare Aplicatii Windows 
-## 📗Laborator 1 - [Console App] - Notiuni Introductive
-  
- ✔️[1. Particularitatile limbajului C#](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)</br>
-   - Afisare si citire pentru aplicatii tip consola 
-   - Vector
-   - Shallow Copy / Deep Copy 
-   - Matrice bi-dimensionala  
-   
- ✔️[2. Clasa Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)</br>
-   - Definire atribute
-   - Constructor implicit / cu parametri / de copiere
-   - Proprietati (functii accesor) 
-   - Functie de afisare clasica / To String
+## [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
+**[- Paticularitati limbaj C#:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)** 🔴Afisare si citire pentru aplicatii tip consola 🟠Vector 🟡Shallow Copy / Deep Copy 🟢Matrice bi-dimensionala.</br>
+**[- Clasa Student:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri / de copiere 🟡Proprietati (functii accesor) 🟢Functie de afisare clasica / To String.</br>
+ 
 
 ## 📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]
 
