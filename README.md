@@ -10,13 +10,13 @@
 
   **[✔️2. Clasa derivata Pantera:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟡Proprietati (functii accesor) 🟢To String 🔵ICloneable / IComparable - mostenite din clasa Animal
 
-  **[✔️3. Clasa derivata Sarpe](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Sarpe.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟡To String 🟢ICloneable / IComparable - mostenite din clasa Animal
+  **[✔️3. Clasa derivata Sarpe](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Sarpe.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟢To String 🔵ICloneable / IComparable - mostenite din clasa Animal
 
   **[✔️4. Clasa Zoo - Colectie de Animale](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)** 🔴Definire atribute 🟠Constructor implicit 🟡Proprietati (functii accesor) 🟢To String 🔵ICloneable 🟣Ooperator INDEX
    
   # [📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/3.%20Laborator3%20-%20Ierarhie%20de%20clase%5BStudent%5D.md)
    
-  **[✔️1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟡To String 🟢Metoda abstracta (spuneAnNastere)
+  **[✔️1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟢To String 🟣Metoda abstracta (spuneAnNastere)
  
   **[✔️2. Clasa derivata Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)** 🔴Definire atribute🟠 ICloneable, IComparable, IMedia 🟡Constructor implicit / cu parametri 🟢Proprietati (functii accesor)🔵To String 🟣Ooperator: +, ++, cast, INDEX
    
@@ -24,7 +24,6 @@
   **[✔️4. Formular](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)**
   
 # 📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar
-  
   Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items</br>
   ⚠️ATENTIE LA NAMESPACE SA FIE LA FEL CU CEL AL PROIECTULUI</br>
   ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)</br>
@@ -34,13 +33,11 @@
   ✔️[5. Formular2 - Citire /Scriere Fisier Text/Binar](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular2.md)</br>
   
 # [📗Laborator 5 - [Windows Forms] - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20%20Laborator%205%20-%20Fisier%20XML.md)
-  
   [Fisier XML](https://bnro.ro/nbrfxrates.xml)</br>
   [✔️1. Formular1 - Parsare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Parsare%20Fisier%20XML.md)</br>
   [✔️2. Formular1 - Generare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Generare%20Fisier%20XML.md)</br>
       
 # 📒Laborator 6 - [Windows Forms] - Error Provider
-  
   ✔️[1. Formular2 - Update Seminar5 - Error Provider](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)</br>
   ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)</br>
   ✔️[3. Formular3 ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)</br>
