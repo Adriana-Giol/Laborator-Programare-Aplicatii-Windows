@@ -1,7 +1,5 @@
 # Programare Aplicatii Windows 
-<details open>
- <p>
- <summary> 📗Laborator 1 - [Console App] - Notiuni Introductive</summary>
+## 📗Laborator 1 - [Console App] - Notiuni Introductive
   
  ✔️[1. Particularitatile limbajului C#](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)</br>
    - Afisare si citire pentru aplicatii tip consola 
@@ -14,12 +12,8 @@
    - Constructor implicit / cu parametri / de copiere
    - Proprietati (functii accesor) 
    - Functie de afisare clasica / To String
- </p>
- </details>
- 
- <details open>
- <p>
-  <summary> 📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]</summary>
+
+## 📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]
 
   ✔️[1. Clasa Animal](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)
    - Definire atribute
@@ -50,12 +44,7 @@
    - ICloneable
    - Ooperator INDEX
    
-   </p>
-   </details>
-   
-  <details open>
-  <p>
-   <summary>📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]</summary>
+  ## 📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]
    
   ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)</br>
    - Definire atribute
@@ -73,12 +62,7 @@
   ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)</br>
   ✔️[4. Formular](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)</br>
   
-  </p>
-  </details>
-  
- <details open>
- <p>
- <summary>📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar </summary>
+## 📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar
   
   Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items</br>
   ⚠️ATENTIE LA NAMESPACE SA FIE LA FEL CU CEL AL PROIECTULUI</br>
@@ -88,25 +72,13 @@
   ✔️[4. Formular1 - Update](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular1.md)</br>
   ✔️[5. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular2.md)</br>
   
-  
-  </p>
-  </details>
-  
- <details open>
- <p>
-  <summary>📗Laborator 5 - [Windows Forms] - Fisier XML</summary>
+## 📗Laborator 5 - [Windows Forms] - Fisier XML
   
   [Fisier XML](https://bnro.ro/nbrfxrates.xml)</br>
   ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular1.md)</br>
   ✔️[2. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular2.md)</br>
       
-       
- </p>
- </details>
- 
- <details open>
- <p>
-  <summary>📒Laborator 6 - [Windows Forms] - Error Provider</summary>
+## 📒Laborator 6 - [Windows Forms] - Error Provider
   
   ✔️[1. Formular2 - Update Seminar5](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)</br>
   ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)</br>
@@ -115,19 +87,9 @@
   ### Proiect Nou
   ✔️[4. ]()
   
-  </p>
-  </details>
-  
- <details open>
- <p>
-  <summary>📕Laborator 7 - [Windows Forms]<Summary>
+## 📕Laborator 7 - [Windows Forms]
    
-   </p>
-   </details>
-   
-    <details open>
- <p>
-  <summary>📕Laborator 8 - [Windows Forms] - Grafic<Summary>
+## 📕Laborator 8 - [Windows Forms] - Grafic
    
    </p>
    </details>
