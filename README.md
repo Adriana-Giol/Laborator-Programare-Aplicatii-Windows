@@ -20,7 +20,7 @@
  
   **[✔️2. Clasa derivata Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)** 🔴Definire atribute🟠 ICloneable, IComparable, IMedia 🟡Constructor implicit / cu parametri 🟢Proprietati (functii accesor)🔵To String 🟣Ooperator: +, ++, cast, INDEX
    
-  **[✔️3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)**
+  **[✔️3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)**</br>
   **[✔️4. Formular](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)**
   
 ## 📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar
@@ -33,11 +33,11 @@
   ✔️[4. Formular1 - Update](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular1.md)</br>
   ✔️[5. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular2.md)</br>
   
-## 📗Laborator 5 - [Windows Forms] - Fisier XML
+## [📗Laborator 5 - [Windows Forms] - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20%20Laborator%205%20-%20Fisier%20XML.md)
   
   [Fisier XML](https://bnro.ro/nbrfxrates.xml)</br>
-  ✔️[1. Formular1 - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular1.md)</br>
-  ✔️[2. Formular2](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S5.Formular2.md)</br>
+  [✔️1. Formular1 - Parsare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Parsare%20Fisier%20XML.md)</br>
+  [✔️[2. Formular1 - Generare Fisier XML]()</br>
       
 ## 📒Laborator 6 - [Windows Forms] - Error Provider
   
