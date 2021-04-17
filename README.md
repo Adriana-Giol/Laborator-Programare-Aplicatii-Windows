@@ -42,6 +42,7 @@
   ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)</br>
   ✔️[3. Formular3 ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)</br>
   ✔️[4. Aplicatie de adaugare de TextBox-uri in maniera dinamica](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/6.%20Laborator6%20-%20TextBox%20Dinamic.md)</br>
+  ✔️[5. Clasa Produs](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/6.%20Laborator6%20-%20Clasa%20Produs.md)🔴Definire atribute 🟠Constructor cu parametri 🟢To String </br>
   
 # 📕Laborator 7 - [Windows Forms]
    
