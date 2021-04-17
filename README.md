@@ -37,14 +37,17 @@
   [✔️1. Formular1 - Parsare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Parsare%20Fisier%20XML.md)</br>
   [✔️2. Formular1 - Generare Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20Laborator5%20-%20Generare%20Fisier%20XML.md)</br>
       
-# 📒Laborator 6 - [Windows Forms] - Error Provider
+# 📗Laborator 6 - [Windows Forms] - Error Provider
   ✔️[1. Formular2 - Update Seminar5 - Error Provider](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)</br>
   ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)</br>
   ✔️[3. Formular3 ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)</br>
   ✔️[4. Aplicatie de adaugare de TextBox-uri in maniera dinamica](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/6.%20Laborator6%20-%20TextBox%20Dinamic.md)</br>
-  ✔️[5. Clasa Produs](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/6.%20Laborator6%20-%20Clasa%20Produs.md)🔴Definire atribute 🟠Constructor cu parametri 🟢To String </br>
   
-# 📕Laborator 7 - [Windows Forms]
+# 📒Laborator 7 - [Windows Forms] - List View & Tree View
+🔴List View - Structura Tabelara
+🟠Tree View - Date Expandate - Structura de Fisiere - Maniera Arborescenta
+ ✔️[1. Clasa Student](https://github.com/cristianciurea/PAW2021/blob/main/Sem7_PAW/Sem7PAW_1046/Student.cs)</br>🔴Definire atribute 🟠Constructor cu parametri 🟡Proprietati (functii accesor) 🟢To String 
+ ✔️[1. Formular7 - List View ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/7.%20Laborator7%20-%20ListView.md)</br>
    
 # 📕Laborator 8 - [Windows Forms] - Grafic
    
