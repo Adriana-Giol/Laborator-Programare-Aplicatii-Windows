@@ -47,7 +47,7 @@
 🔴List View - Structura Tabelara</br>
 🟠Tree View - Date Expandate - Structura de Fisiere - Maniera Arborescenta</br>
  ✔️[1. Clasa Student](https://github.com/cristianciurea/PAW2021/blob/main/Sem7_PAW/Sem7PAW_1046/Student.cs)</br>🔴Definire atribute 🟠Constructor cu parametri 🟡Proprietati (functii accesor) 🟢To String </br>
- ✔️[1. Formular7 - List View ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/7.%20Laborator7%20-%20ListView.md)</br>
+ ✔️[1. Formular7 - List View & Tree View](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/7.%20Laborator7%20-%20ListView.md)</br>
    
 # 📕Laborator 8 - [Windows Forms] - Grafic
    
