@@ -11,13 +11,21 @@
 
 # [📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/2.%20Laborator2%20-%20Ierarhie%20de%20clase%5BZoo%5D.md)
 
-  **[✔️1. Clasa Animal:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri / ~~de copiere~~🟡Proprietati (functii accesor) 🟢To String 🔵ICloneable / IComparable 🟣Operator+
+|   |      |       |       |
+|---|:-----|:------|:------|
+|[✔️**1. Clasa Animal**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)|[✔️**2. Clasa derivata Pantera**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera.md)| [✔️**3. Clasa derivata Sarpe**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Sarpe.md)|[✔️**4. Clasa Zoo - Colectie de Animale**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)|
+|🔴Definire atribute|🔴Definire atribute| 🔴Definire atribute|🔴Definire atribute|
+ 🟠Constructor implicit / cu parametri / ~~de copiere~~| 🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|🟠Constructor implicit|
+ 🟡Proprietati (functii accesor)|🟡Proprietati (functii accesor)|❌|🟡Proprietati (functii accesor)|
+ 🟢To String |🟢To String|🟢To String|🟢To String|
+ 🔵ICloneable / IComparable |🔵ICloneable / IComparable - mostenite din clasa Animal|🔵ICloneable / IComparable - mostenite din clasa Animal| 🔵ICloneable
+ 🟣Operator+|❌|❌|🟣Ooperator INDEX|
 
-  **[✔️2. Clasa derivata Pantera:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟡Proprietati (functii accesor) 🟢To String 🔵ICloneable / IComparable - mostenite din clasa Animal
+     
 
-  **[✔️3. Clasa derivata Sarpe](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Sarpe.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟢To String 🔵ICloneable / IComparable - mostenite din clasa Animal
+    
 
-  **[✔️4. Clasa Zoo - Colectie de Animale](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)** 🔴Definire atribute 🟠Constructor implicit 🟡Proprietati (functii accesor) 🟢To String 🔵ICloneable 🟣Ooperator INDEX
+       
    
   # [📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/3.%20Laborator3%20-%20Ierarhie%20de%20clase%5BStudent%5D.md)
    
@@ -46,7 +54,7 @@
   ✔️[1. Formular2 - Update Seminar5 - Error Provider](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)</br>
   ✔️[2. Clasa Credit](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)</br>
   ✔️[3. Formular3 ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)</br>
-  ✔️[4. Aplicatie de adaugare de TextBox-uri in maniera dinamica](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/6.%20Laborator6%20-%20TextBox%20Dinamic.md)</br>
+  ✔️[4. Aplicatie de adaugare de TextBox-uri in maniera dinamica](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/6.%20Laborator6%20-%20TextBox%20Dinamic.md)</br> 
   
 # 📒Laborator 7 - [Windows Forms] - List View & Tree View
 🔴List View - Structura Tabelara</br>
