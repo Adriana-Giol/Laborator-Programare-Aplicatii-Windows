@@ -35,18 +35,24 @@
 |🔴Definire atribute|🔴Definire atribute|❌|🔴TextBox|
  🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|❌|🟠Label|
  ❌|🟡Proprietati (functii accesor)|❌|🟡Combo Box|
- 🟢To String|🟢To String|❌|🟢Buton|
+ 🟢To String|🟢To String|❌|🟢Buton (Netratat)|
  ❌|🟣Ooperator: +, ++, cast, INDEX|❌|❌|
  🔵Metoda abstracta (spuneAnNastere)➡️|🔵ICloneable, IComparable, IMedia|⬅️🔵Metoda abstracta (calculeazaMedie)|❌|
   
 # 📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar
-  Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items</br>
-  ⚠️ATENTIE LA NAMESPACE SA FIE LA FEL CU CEL AL PROIECTULUI</br>
-  ✔️[1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)</br>
-  ✔️[2. Clasa derivata Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)</br>
-  ✔️[3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)</br>
-  ✔️[4. Formular1 - Update](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular1.md)</br>
-  ✔️[5. Formular2 - Citire /Scriere Fisier Text/Binar](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular2.md)</br>
+  Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items**</br>
+  ⚠️**ATENTIE LA NAMESPACE SA FIE LA FEL CU CEL AL PROIECTULUI**</br>
+  
+  |   |      |       |       |     |    
+  |---|:-----|:------|:------|:----|
+  |[✔️**1. Clasa abstracta- de baza Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)| [✔️**2. Clasa derivata Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)|[✔️**3. Interfata IMedia**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)|  [✔️**4. Formular1 - Update**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular1.md)|[✔️**5. Formular2 - Citire /Scriere Fisier Text/Binar**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular2.md)|
+|🔴Definire atribute|🔴Definire atribute|❌|🔴TextBox|🔴TextBox|
+ 🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|❌|🟠Label|🟠Buton1[Tratat] 〰️Traversare lista & Afisare|
+ ❌|🟡Proprietati (functii accesor)|❌|🟡Combo Box|🟡Buton2[Tratat]〰️Salvare in fisier TXT🌎SaveFileDialog|
+ 🟢To String|🟢To String|❌|🟢Buton1 [Tratat]〰️Try-Catch〰️Conversii|🟢Buton3[Tratat]〰️Citire din fisier TXT🌎OpenFileDialog|
+ ❌|🟣Ooperator: +, ++, cast, INDEX|❌|🟣Buton2 [Tratat]〰️Traversare lista & Afisare|🟣Buton4[Tratat]〰️Salvare in fisier BINAR|
+ 🔵Metoda abstracta (spuneAnNastere)➡️|🔵ICloneable, IComparable, IMedia|⬅️🔵Metoda abstracta (calculeazaMedie)|❌|🔵Buton5[Tratat]〰️Citire din fisier BINAR|
+  
   
 # [📗Laborator 5 - [Windows Forms] - Fisier XML](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/5.%20%20Laborator%205%20-%20Fisier%20XML.md)
   [Fisier XML](https://bnro.ro/nbrfxrates.xml)</br>
