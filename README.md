@@ -5,9 +5,14 @@
 📘[**Tutoring PAW**](https://www.youtube.com/watch?v=pd5_tJWAl7g&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=6)📘
 
 # [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
-**[✔️ Paticularitati limbaj C#:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)** 🔴Afisare si citire pentru aplicatii tip consola 🟠Vector 🟡Shallow Copy / Deep Copy 🟢Matrice bi-dimensionala.</br>
-**[✔️ Clasa Student:](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri / de copiere 🟡Proprietati (functii accesor) 🟢Functie de afisare clasica / To String.</br>
- 
+
+|   |      |
+|---|:-----|
+|[✔️** Paticularitati limbaj C#**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)|[✔️ **Clasa Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)|
+|🔴Afisare si citire pentru aplicatii tip consola| 🔴Definire atribute|
+ 🟠Vector|🟠Constructor implicit / cu parametri / de copiere|
+ 🟡Shallow Copy / Deep Copy|🟡Proprietati (functii accesor)|
+ 🟢Matrice bi-dimensionala|🟢Functie de afisare clasica / To String|
 
 # [📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/2.%20Laborator2%20-%20Ierarhie%20de%20clase%5BZoo%5D.md)
 
@@ -32,7 +37,7 @@
  ❌|🟡Proprietati (functii accesor)|❌|❌|
  🟢To String|🟢To String|❌|❌|
  ❌|🟣Ooperator: +, ++, cast, INDEX|❌|❌|
- 🔵Metoda abstracta (spuneAnNastere)|🔵ICloneable, IComparable, IMedia|❌|❌|
+ 🔵Metoda abstracta (spuneAnNastere)➡️|🔵ICloneable, IComparable, IMedia|⬅️🔵Metoda abstracta (calculeazaMedie)|❌|
   
 # 📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar
   Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items</br>
