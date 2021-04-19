@@ -32,10 +32,10 @@
   |   |      |       |       |
   |---|:-----|:------|:------|
   |[✔️**1. Clasa abstracta- de baza Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)| [✔️**2. Clasa derivata Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)|[✔️**3. Interfata IMedia**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)| [**✔️4. Formular**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)|
-|🔴Definire atribute|🔴Definire atribute|❌|❌|
- 🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|❌|❌|
- ❌|🟡Proprietati (functii accesor)|❌|❌|
- 🟢To String|🟢To String|❌|❌|
+|🔴Definire atribute|🔴Definire atribute|❌|🔴TextBox|
+ 🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|❌|🟠Label|
+ ❌|🟡Proprietati (functii accesor)|❌|🟡Combo Box|
+ 🟢To String|🟢To String|❌|🟢Buton|
  ❌|🟣Ooperator: +, ++, cast, INDEX|❌|❌|
  🔵Metoda abstracta (spuneAnNastere)➡️|🔵ICloneable, IComparable, IMedia|⬅️🔵Metoda abstracta (calculeazaMedie)|❌|
   
