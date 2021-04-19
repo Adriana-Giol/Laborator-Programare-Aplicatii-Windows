@@ -21,20 +21,18 @@
  🔵ICloneable / IComparable |🔵ICloneable / IComparable - mostenite din clasa Animal|🔵ICloneable / IComparable - mostenite din clasa Animal| 🔵ICloneable
  🟣Operator+|❌|❌|🟣Ooperator INDEX|
 
-     
-
-    
-
-       
    
   # [📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/3.%20Laborator3%20-%20Ierarhie%20de%20clase%5BStudent%5D.md)
-   
-  **[✔️1. Clasa abstracta- de baza Persoana](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)** 🔴Definire atribute 🟠Constructor implicit / cu parametri 🟢To String 🟣Metoda abstracta (spuneAnNastere)
- 
-  **[✔️2. Clasa derivata Student](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)** 🔴Definire atribute🟠 ICloneable, IComparable, IMedia 🟡Constructor implicit / cu parametri 🟢Proprietati (functii accesor)🔵To String 🟣Ooperator: +, ++, cast, INDEX
-   
-  **[✔️3. Interfata IMedia](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)**</br>
-  **[✔️4. Formular](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)**
+  
+  |   |      |       |       |
+  |---|:-----|:------|:------|
+  |[✔️**1. Clasa abstracta- de baza Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)| [✔️**2. Clasa derivata Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)|[✔️**3. Interfata IMedia**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)| [**✔️4. Formular**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)|
+|🔴Definire atribute|🔴Definire atribute|❌|❌|
+ 🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|❌|❌|
+ ❌|🟡Proprietati (functii accesor)|❌|❌|
+ 🟢To String|🟢To String|❌|❌|
+ ❌|🟣Ooperator: +, ++, cast, INDEX|❌|❌|
+ 🔵Metoda abstracta (spuneAnNastere)|🔵ICloneable, IComparable, IMedia|❌|❌|
   
 # 📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar
   Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items</br>
