@@ -83,8 +83,8 @@
 |🟢To String |🟢Preluare date din fisier|🟢Exporta XML|
 |❌|🔵Eveniment Item Check|❌|
 
-   #Acceleratori 
-![Acceleratori](https://user-images.githubusercontent.com/60271540/115408966-fee0b500-a1f9-11eb-94af-958956382294.png)
+   # [Acceleratori](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Acceleratori.md) 
+
 
   
 # 📕Laborator 8 - [Windows Forms] - Grafic
