@@ -4,6 +4,9 @@
 📒[**Tutoring PAW - Partea II (varianta Traseu)**](https://www.youtube.com/watch?v=HjatpPQ2r-E&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3)📒
 📘[**Tutoring PAW**](https://www.youtube.com/watch?v=pd5_tJWAl7g&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=6)📘
 
+### Link-uri ajutatoare:
+⏰[**Date Time**](https://www.tutorialsteacher.com/csharp/csharp-datetime)⏰
+
 # [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
 
 |   |      |
