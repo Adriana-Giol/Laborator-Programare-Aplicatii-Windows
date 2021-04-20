@@ -84,15 +84,8 @@
 |🟢To String |🟢Preluare date din fisier|🟢Exporta XML|
 |❌|🔵Eveniment Item Check|❌|
 
-  
-
-
-  
+ 
 # 📕Laborator 8 - [Windows Forms] - Grafic
-   
-   </p>
-   </details>
-  
   
 ## 💻[PROIECT](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Proiect.md)
     
