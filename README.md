@@ -29,15 +29,17 @@
    
   # [📗Laborator 3 - [Console App + Windows Forms] - Ierarhie de clase[Student]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/3.%20Laborator3%20-%20Ierarhie%20de%20clase%5BStudent%5D.md)
   
-  |   |      |       |       |
-  |---|:-----|:------|:------|
-  |[✔️**1. Clasa abstracta- de baza Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)| [✔️**2. Clasa derivata Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)|[✔️**3. Interfata IMedia**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)| [**✔️4. Formular**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)|
-|🔴Definire atribute (int, char)|🔴Definire atribute (int, string, int[])|❌|🔴TextBox|
- 🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|❌|🟠Label|
- ❌|🟡Proprietati (functii accesor)|❌|🟡Combo Box|
- 🟢To String|🟢To String|❌|🟢Buton (Netratat)|
- ❌|🟣Ooperator: +, ++, cast, INDEX|❌|❌|
- 🔵Metoda abstracta (spuneAnNastere)➡️|🔵ICloneable, IComparable, IMedia|⬅️🔵Metoda abstracta (calculeazaMedie)|❌|
+  |   |      |       |       |      |
+  |---|:-----|:------|:------|:-----|
+  |[✔️**1. Clasa abstracta- de baza Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)| [✔️**2. Clasa derivata Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)|[✔️**3. Interfata IMedia**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)| [**✔️4. Formular**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)|[✔️**5. Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/1.%20Laborator/3.%20Seminar%203/%5BCom%5DCiurea_Seminar3_1046/Program.cs)|
+|🔴Definire atribute (int, char)|🔴Definire atribute (int, string, int[])|❌|🔴TextBox|🔹Apelare constructor implicit / cu parametri|
+ 🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|❌|🟠Label|🔹Apelare metoda clone()|
+ ❌|🟡Proprietati (functii accesor)|❌|🟡Combo Box|🔹Apelare ToString|
+ 🟢To String|🟢To String|❌|🟢Buton (Netratat)|🔹Apelare operator+|
+ ❌|🟣Ooperator: +, ++, cast, INDEX|❌|❌|🔹Apelare metodaAbstracta`spuneAnNastere`|
+ 🔵Metoda abstracta (spuneAnNastere)➡️|🔵ICloneable, IComparable, IMedia|⬅️🔵Metoda abstracta (calculeazaMedie)|❌|🔹Apelare INDEX|
+  ❌|❌|❌|❌|🔹Creare Lista Studenti sortata + apelare CompareTo()|
+ 
   
 # 📗Laborator 4 - [Windows Forms App.NET Framewrok] - Scriere /Citire in fisier Text/Binar
   Preluare din seminar3 clasele: Form1, Student, Peroana, IMedia - **Click dreapta Proiect -> Add ->Existing Items**</br>
