@@ -68,7 +68,7 @@
 |---|:-----|:------|:------|
 [✔️**1. Formular2 - Update Seminar5 - Error Provider**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)|[✔️**2. Clasa Credit**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)|[✔️**3. Formular3** ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)|[✔️**4. Aplicatie de adaugare de TextBox-uri in maniera dinamica**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/6.%20Laborator6%20-%20TextBox%20Dinamic.md)|
 |🔴Meniu Contextual|🔴Definire atribute (int, int, float, float)|🔴Transmiterea Listei de Credite din Form2 in Form3|🔴Adaugare TextBox dinamic|
- 🟠Error Provider|🟠Constructor cu parametri|🟠Eveniment KeyPress - tastatura de un anumit fel|
+ 🟠Error Provider|🟠Constructor cu parametri||🟠Eveniment KeyPress - tastatura de un anumit fel|
  🟡Lista Credite|🟢To String |
   
 # 📗Laborator 7 - [Windows Forms] - List View & Tree View
