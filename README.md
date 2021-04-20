@@ -19,7 +19,7 @@
 |   |      |       |       |
 |---|:-----|:------|:------|
 |[✔️**1. Clasa Animal**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20de%20baza%20Animal.md)|[✔️**2. Clasa derivata Pantera**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Pantera.md)| [✔️**3. Clasa derivata Sarpe**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Sarpe.md)|[✔️**4. Clasa Zoo - Colectie de Animale**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Zoo.md)|
-|🔴Definire atribute|🔴Definire atribute| 🔴Definire atribute|🔴Definire atribute|
+|🔴Definire atribute (int, string, float)|🔴Definire atribute (string, bool)| 🔴Definire atribute (int, bool)|🔴Definire atribute (string, List<*Animal*>)|
  🟠Constructor implicit / cu parametri / ~~de copiere~~| 🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|🟠Constructor implicit|
  🟡Proprietati (functii accesor)|🟡Proprietati (functii accesor)|❌|🟡Proprietati (functii accesor)|
  🟢To String |🟢To String|🟢To String|🟢To String|
@@ -32,7 +32,7 @@
   |   |      |       |       |
   |---|:-----|:------|:------|
   |[✔️**1. Clasa abstracta- de baza Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)| [✔️**2. Clasa derivata Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)|[✔️**3. Interfata IMedia**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)| [**✔️4. Formular**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S3.Formular.md)|
-|🔴Definire atribute|🔴Definire atribute|❌|🔴TextBox|
+|🔴Definire atribute (int, char)|🔴Definire atribute (int, string, int[])|❌|🔴TextBox|
  🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|❌|🟠Label|
  ❌|🟡Proprietati (functii accesor)|❌|🟡Combo Box|
  🟢To String|🟢To String|❌|🟢Buton (Netratat)|
@@ -46,7 +46,7 @@
   |   |      |       |       |     |    
   |---|:-----|:------|:------|:----|
   |[✔️**1. Clasa abstracta- de baza Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20abstracta%20-%20de%20baza%20Persoana.md)| [✔️**2. Clasa derivata Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20derivata%20Student.md)|[✔️**3. Interfata IMedia**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Interfata%20IMedia.md)|  [✔️**4. Formular1 - Update**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular1.md)|[✔️**5. Formular2 - Citire /Scriere Fisier Text/Binar**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.Formular2.md)|
-|🔴Definire atribute|🔴Definire atribute|❌|🔴TextBox|🔴TextBox|
+|🔴Definire atribute (int, char)|🔴Definire atribute (int, string, int[])|❌|🔴TextBox|🔴TextBox|
  🟠Constructor implicit / cu parametri|🟠Constructor implicit / cu parametri|❌|🟠Label|🟠Buton1[Tratat] 〰️Traversare lista & Afisare|
  ❌|🟡Proprietati (functii accesor)|❌|🟡Combo Box|🟡Buton2[Tratat]〰️Salvare in fisier TXT🌎SaveFileDialog|
  🟢To String|🟢To String|❌|🟢Buton1 [Tratat]〰️Try-Catch〰️Conversii|🟢Buton3[Tratat]〰️Citire din fisier TXT🌎OpenFileDialog|
@@ -64,7 +64,7 @@
 |   |      |       |       |
 |---|:-----|:------|:------|
 [✔️**1. Formular2 - Update Seminar5 - Error Provider**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular2.md)|[✔️**2. Clasa Credit**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Clasa%20Credit.md)|[✔️**3. Formular3** ](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S6.Formular3.md)|[✔️**4. Aplicatie de adaugare de TextBox-uri in maniera dinamica**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/6.%20Laborator6%20-%20TextBox%20Dinamic.md)|
-|🔴Meniu Contextual|🔴Definire atribute|🔴Transmiterea Listei de Credite din Form2 in Form3|🔴Adaugare TextBox dinamic|
+|🔴Meniu Contextual|🔴Definire atribute (int, int, float, float)|🔴Transmiterea Listei de Credite din Form2 in Form3|🔴Adaugare TextBox dinamic|
  🟠Error Provider|🟠Constructor cu parametri|🟠Eveniment KeyPress - tastatura de un anumit fel|
  🟡Lista Credite|🟢To String |
   
@@ -75,7 +75,7 @@
 |   |      |       | 
 |---|:-----|:------|
 |[✔️**1. Clasa Student**](https://github.com/cristianciurea/PAW2021/blob/main/Sem7_PAW/Sem7PAW_1046/Student.cs)|[✔️**1. Formular7 - List View**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/7.%20Laborator7%20-%20ListView.md)|[✔️**1. Formular7 - Tree View**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/7.%20Laborator7%20-%20ListView.md)|
-|🔴Definire atribute|🔴Adaugare coloane goale (cod+proprietate) + Populare ListView cu date|🔴Populare TreeView|
+|🔴Definire atribute (int, string, int)|🔴Adaugare coloane goale (cod+proprietate) + Populare ListView cu date|🔴Populare TreeView|
 |🟠Constructor cu parametri|🟠Stergere Items|🟠Sterge Nod|
 |🟡Proprietati (functii accesor)|🟡Adaugare date din TextBox in ListView|🟡Eveniment ALTER SELECT|
 |🟢To String |🟢Preluare date din fisier|🟢Exporta XML|
