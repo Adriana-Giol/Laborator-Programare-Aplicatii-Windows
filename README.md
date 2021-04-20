@@ -80,7 +80,7 @@
 |[✔️**1. Clasa Student**](https://github.com/cristianciurea/PAW2021/blob/main/Sem7_PAW/Sem7PAW_1046/Student.cs)|[✔️**1. Formular7 - List View**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/7.%20Laborator7%20-%20ListView.md)|[✔️**1. Formular7 - Tree View**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/7.%20Laborator7%20-%20ListView.md)|
 |🔴Definire atribute (int, string, int)|🔴Adaugare coloane goale (cod+proprietate) + Populare ListView cu date|🔴Populare TreeView|
 |🟠Constructor cu parametri|🟠Stergere Items|🟠Sterge Nod|
-|🟡Proprietati (functii accesor)|🟡Adaugare date din TextBox in ListView|🟡Eveniment ALTER SELECT|
+|🟡Proprietati (functii accesor)|🟡Adaugare date din TextBox in ListView|🟡Eveniment AFTER SELECT|
 |🟢To String |🟢Preluare date din fisier|🟢Exporta XML|
 |❌|🔵 TextBox Numeric - Eveniment Item Check|❌|
 
