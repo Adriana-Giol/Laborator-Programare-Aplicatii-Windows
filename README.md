@@ -82,7 +82,7 @@
 |🟠Constructor cu parametri|🟠Stergere Items|🟠Sterge Nod|
 |🟡Proprietati (functii accesor)|🟡Adaugare date din TextBox in ListView|🟡Eveniment ALTER SELECT|
 |🟢To String |🟢Preluare date din fisier|🟢Exporta XML|
-|❌|🔵Eveniment Item Check|❌|
+|❌|🔵 TextBox Numeric - Eveniment Item Check|❌|
 
  
 # 📕Laborator 8 - [Windows Forms] - Grafic
