@@ -2,8 +2,13 @@
 - KeyDown
 - KeyUp
 - KeyPress
-Iesire din aplicatie se poate face si prin combinatia `Alt + E`, prin interceptarea tastaturii.
 
+Form -> Buton -> Prorpeitatea `TEXT = Afisare`:</br>
+- `&Afisare`: se trateaza acceleratorul ALT + A; </br>
+- `Afi&sare`: se trateaza accceleratorul ALT + S</br>
+Tratam evenimentul de click pe buton (poate fi doar un mesaj), iar cand apasam tasta CTRL+A se realizeaza evenimntul de click pe buton.</br>
+
+### Iesire din aplicatie se poate face si prin combinatia `Alt + E`, prin interceptarea tastaturii.
 **PAS 1: Selectezi Form1 -> Proprietati TAB -> KeyPreview = TRUE**</br>
 **PAS 2: Selectezi Form1 -> Evenimente TAB-> dublu-click pe KeyDown**</br>
 
