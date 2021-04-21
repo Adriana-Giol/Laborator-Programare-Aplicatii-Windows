@@ -174,7 +174,7 @@ namespace RecapitulareTest
   
 
         //*******************************8.OPERATORI****************************************************************************************
-
+//******************************************************* OPERATOR +****************************************************************
         //                           OPERATOR + - VECTOR
         public static Persoana operator +(Persoana p, float salariuNou)
         {
@@ -213,7 +213,7 @@ namespace RecapitulareTest
 
         
 
-
+//***************************************************OPERATOR INDEX***************************************************************
         //OPERATOR INDEX  - VECTOR
        /* public float this[int index]
         {

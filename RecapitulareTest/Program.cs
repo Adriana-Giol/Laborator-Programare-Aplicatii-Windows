@@ -34,6 +34,7 @@ namespace RecapitulareTest
 
             //PROPRIETATI
             string nume1 = "Matei Ion";
+            string nume2 = "Kim Sukyi";
 
             p3.NumeComplet = new List<string> { "Vanesa ", "James " };
             p3.NumeComplet.Add(nume1);
@@ -51,7 +52,14 @@ namespace RecapitulareTest
             //OPERATOR INDEX - LIST
             MessageBox.Show("Al doilea nume este " + p3[1]);
 
-
+            //COMPARE 
+            List<String> numeComplet = new List<String>();
+            numeComplet.Add(nume1);
+            
+            foreach (String s in numeComplet)
+            {
+                Console.WriteLine(s);
+            }
         }
     }
 }
