@@ -7,6 +7,7 @@
 
 ### Link-uri ajutatoare:
 ⏰[**Date Time**](https://www.tutorialsteacher.com/csharp/csharp-datetime)⏰
+📋[**List**](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.addrange?view=net-5.0)📋
 
 # [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
 
