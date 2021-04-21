@@ -2,11 +2,11 @@
 # RECAPITULARE TEST
 |   |      |      |       |       |
 |---|:-----|:-----|:------|:------|   
-|[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[**Clasa Colectiv**]()|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|[**Form1**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form1.cs)|[**Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form2.cs)|
-|🔴Definire atribute (int id, List<String>, String, float[], bool, char, DateTime, decimal, double|
-|🟠Constructor implicit / cu parametri (Deep Copy: vectori - List<String>)|
-|🟡Proprietati (functii accesor)|
-|🟢To String (List<String>, vector, atribute normale)|
+|[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[✔️**Clasa Colectiv**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Colectiv.cs)|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|[**Form1**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form1.cs)|[**Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form2.cs)|
+|🔴Definire atribute (int id, List<String>, String, float[], bool, char, DateTime, decimal, double|🔴Definire atribute(String, List<Persoana>)|
+|🟠Constructor implicit / cu parametri (Deep Copy: vectori - List<String>)|🟠Constructor implicit / cu parametri (Deep Copy: List<Persoana>)|
+|🟡Proprietati (functii accesor)|🟡Proprietati (functii accesor)|
+|🟢To String (List<String>, vector, atribute normale)|🟢To String (List<Persoana>
 |🟣ICloneable (List<String>, vector), IComparable(|
 |🔵Operator INDEX (List<String>, vector), +(Vector),++, CAST|
 
