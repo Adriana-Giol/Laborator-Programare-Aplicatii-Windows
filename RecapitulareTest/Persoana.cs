@@ -43,7 +43,12 @@ namespace RecapitulareTest
         public Persoana(List<string> numeComplet, string localitate, float[] salariileAnului, bool esteFemeie, char stareMatrimoniala, DateTime dataNasterii, decimal salariu, double venitNet)
         {
             this.id = contorId;
-            this.numeComplet = new List<string>(numeComplet);
+            this.numeComplet = new List<string>();
+            foreach(String n in numeComplet)
+            {
+                this.numeComplet.Add(n);
+            }
+
             this.localitate = localitate;
 
             //DEEP COPY - VARIANTA 1
