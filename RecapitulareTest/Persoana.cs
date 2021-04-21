@@ -131,7 +131,7 @@ namespace RecapitulareTest
 
         //**********7. ICOMPARABLE - COMPARE TO *********************************************************************************************
         // STRING
-        /*
+        
         public int CompareTo(object obj)
         {
             Persoana p = (Persoana)obj;  //facem CAST
@@ -148,7 +148,7 @@ namespace RecapitulareTest
                 return -1;//false;
             }
 
-        }*/
+        }
 
         //COMPARE TO - INT/FLOAT
 
