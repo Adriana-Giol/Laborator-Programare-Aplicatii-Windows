@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace RecapitulareTest
 {
-    class Persoana:ICloneable, IComparable
+    class Persoana : ICloneable, IComparable
     {
-        //1. DEFINIRE ATRIBUTE
-        private const String cnp = "29805060051";
+        //**********1. DEFINIRE ATRIBUTE*****************************************************************************************************************
+        private int id;
         private List<String> numeComplet;
         private String localitate;
         private float[] salariileAnului;
@@ -19,11 +19,13 @@ namespace RecapitulareTest
         private decimal salariu;
         private double venitNet;        //CAT ARE VENITUL TOTAL (Conturi banci + pamanturi)
 
+        private static int contorId;
 
-        //2. CONSTRUCTOR IMPLICIT
+        //************2. CONSTRUCTOR IMPLICIT***********************************************************************************************
         public Persoana()
         {
-            this.numeComplet = new List<string>(new string[] {"Giol", "Adriana"});
+            this.id = contorId;
+            this.numeComplet = new List<string>(new string[] { "Giol", "Adriana" });
             this.localitate = "Bucuresti";
             this.salariileAnului = new float[] { 210.5f, 350, 4f, 450.6f };
             this.esteFemeie = false;
@@ -31,37 +33,42 @@ namespace RecapitulareTest
             this.dataNasterii = System.DateTime.Now;
             this.salariu = 1245.5M;
             this.venitNet = 123.4;
+
+            contorId++;
         }
 
 
 
-        //3. CONSTRUCTOR CU PARAMETRI -  la vectori trebuie DEEP COPY
+        //*************3. CONSTRUCTOR CU PARAMETRI -  la vectori trebuie DEEP COPY********************************************************************************************************
         public Persoana(List<string> numeComplet, string localitate, float[] salariileAnului, bool esteFemeie, char stareMatrimoniala, DateTime dataNasterii, decimal salariu, double venitNet)
         {
+            this.id = contorId;
             this.numeComplet = new List<string>(numeComplet);
             this.localitate = localitate;
 
             //DEEP COPY - VARIANTA 1
-              this.salariileAnului = new float[salariileAnului.Length];
-              for (int i = 0; i < salariileAnului.Length; i++)
-              {
-                  this.salariileAnului[i] = salariileAnului[i];
-              }
+            this.salariileAnului = new float[salariileAnului.Length];
+            for (int i = 0; i < salariileAnului.Length; i++)
+            {
+                this.salariileAnului[i] = salariileAnului[i];
+            }
 
             //DEEP COPY - VARIANTA 2: CLONE
-           // this.SalariileAnului = (float[])salariileAnului.Clone();
+            // this.SalariileAnului = (float[])salariileAnului.Clone();
 
             this.esteFemeie = esteFemeie;
             this.stareMatrimoniala = stareMatrimoniala;
             this.dataNasterii = dataNasterii;
             this.salariu = salariu;
             this.venitNet = venitNet;
+
+            contorId++;
         }
 
-        
-        //4. PRORPEITATI
+
+        //*******************4. PRORPEITATI***************************************************************************************************
+        public int Id { get => id; }
         public List<string> NumeComplet { get => numeComplet; set => numeComplet = value; }
-        public static string Cnp => cnp;
         public string Localitate { get => localitate; set => localitate = value; }
         public float[] SalariileAnului { get => salariileAnului; set => salariileAnului = value; }
         public bool EsteFemeie { get => esteFemeie; set => esteFemeie = value; }
@@ -69,9 +76,10 @@ namespace RecapitulareTest
         public DateTime DataNasterii { get => dataNasterii; set => dataNasterii = value; }
         public decimal Salariu { get => salariu; set => salariu = value; }
         public double VenitNet { get => venitNet; set => venitNet = value; }
+     
 
 
-        //5. TO STRING
+        //**********5. TO STRING***************************************************************************************************************
         public override string ToString()
         {
             //Afisare pentru lista
@@ -81,27 +89,27 @@ namespace RecapitulareTest
             }
 
             //Afisare pentru vector
-           if (salariileAnului != null)
-           {
+            if (salariileAnului != null)
+            {
                 afisare1 += " a avut urmatoarele salarii ";
                 for (int i = 0; i < salariileAnului.Length; i++)
                     afisare1 += salariileAnului[i] + Environment.NewLine;
-           }
+            }
             else
                 afisare1 += " nu a fost angajat in ultimul an.";
 
-           //Afisare pentru atribute normale
-            string afisare3 = "Persoana are resedinta in localitatea " + localitate + "," 
+            //Afisare pentru atribute normale
+            string afisare3 = "Persoana are resedinta in localitatea " + localitate + ","
                     + " este Femeie = " + esteFemeie
-                    + " avand starea matrimoniala " + stareMatrimoniala 
-                    + "fiind nascuta la data de " + dataNasterii 
-                    + " si avand salariul in valoare de " + salariu +" lei"
-                    +" si venitul Net Global in valaore de " + venitNet + " lei.";
+                    + " avand starea matrimoniala " + stareMatrimoniala
+                    + "fiind nascuta la data de " + dataNasterii
+                    + " si avand salariul in valoare de " + salariu + " lei"
+                    + " si venitul Net Global in valaore de " + venitNet + " lei.";
 
-                   
-            return afisare1 +=afisare3;
+
+            return afisare1 += afisare3;
         }
-
+        //******************6. ICLONEABLE - CLONE*************************************************************************************************
         public object Clone()
         {
             //PENTRU LIST
@@ -115,13 +123,15 @@ namespace RecapitulareTest
 
             //PENTRU VECTOR
             float[] salariiAnualeNoi = (float[])salariileAnului.Clone();
-            clona.salariileAnului= salariiAnualeNoi;
+            clona.salariileAnului = salariiAnualeNoi;
             return clona;
 
         }
 
 
-        //6. COMPARE TO - STRING
+        //**********7. ICOMPARABLE - COMPARE TO *********************************************************************************************
+        // STRING
+        /*
         public int CompareTo(object obj)
         {
             Persoana p = (Persoana)obj;  //facem CAST
@@ -138,9 +148,109 @@ namespace RecapitulareTest
                 return -1;//false;
             }
 
-        }
+        }*/
 
         //COMPARE TO - INT/FLOAT
+
+        public int CompareTo(object obj)
+        {
+            Persoana p = (Persoana)obj;
+            if (this.salariu < p.salariu)
+                return -1;
+            else
+                if (this.salariu > p.salariu)
+                return 1;
+            else
+                return 0; // daca fac compararea dupa un singur criteriu
+            return string.Compare(this.localitate, p.localitate); // daca vreau sa fac compararea dupa 2 criterii
+        }
+
+
+        //COMPARE TO - FLOAT (CU OPERATOR CAST IMPLEMENTAT ANTERIOR)
+        /* public int CompareTo(object obj)
+         {
+                 Persoana p = (Persoana)obj;  //facem CAST
+             if ((float)this > (float)s)
+                 return -1;
+             else
+                 if ((float)this < (float)s)
+                 return 1;
+             else
+                 return string.Compare(this.nume, s.nume);
+         }*/
+
+
+        //*******************************8.OPERATORI****************************************************************************************
+
+        //                           OPERATOR + - VECTOR
+        public static Persoana operator +(Persoana p, float salariuNou)
+        {
+            float[] salariiNoi = new float[p.salariileAnului.Length + 1];
+            for (int i = 0; i < p.salariileAnului.Length; i++)
+                salariiNoi[i] = p.salariileAnului[i];
+            salariiNoi[salariiNoi.Length - 1] = salariuNou;
+            p.salariileAnului = salariiNoi;
+            return p;
+        }
+        //Operator + comutativ
+        public static Persoana operator +(float salariuNou, Persoana p)
+        {
+            return p + salariuNou;
+        }
+
+        //OPERATOR ++ - APELEAZA OPERATORUL + DE MAI SUS SI ADAUGA SALRIUL 250.9
+        public static Persoana operator ++(Persoana p)
+        {
+            return p + 250.9f;
+        }
+
+       //CAST
+        public static explicit operator float(Persoana p)
+        {
+            if (p.salariileAnului!= null)
+            {
+                float suma = 0.0f;
+                for (int i = 0; i < p.salariileAnului.Length; i++)
+                    suma += p.salariileAnului[i];
+                return (float)suma / p.salariileAnului.Length;
+            }
+            else
+                return 0;
+        }
+
+        
+
+
+        //OPERATOR INDEX  - VECTOR
+       /* public float this[int index]
+        {
+            get
+            {
+                if (salariileAnului != null && index >= 0 && index < salariileAnului.Length)
+                    return salariileAnului[index];
+                else
+                    return 0;
+            }
+            set
+            {
+                if (value > 0 && index >= 0 && index < salariileAnului.Length)
+                    salariileAnului[index] = value;
+            }
+        }
+       */
+
+        //OPERATOR INDEX - LISTA DE STRING
+       public String this[int index]
+        {
+            get
+            {
+                if (index >= 0 && index < numeComplet.Count && numeComplet != null)
+                    return numeComplet[index];
+                else
+                    return null;
+            }
+        }
+
 
 
     }
