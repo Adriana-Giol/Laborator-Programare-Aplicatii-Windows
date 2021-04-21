@@ -1,14 +1,14 @@
 # Programare Aplicatii Windows 
 # RECAPITULARE TEST
-|   |      |
-|---|:-----|
-|[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|
+|   |      |      |       |       |
+|---|:-----|:-----|:------|:------|   
+|[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[**Clasa Colectiv**]()|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|[**Form1**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form1.cs)|[**Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form2.cs)|
 |🔴Definire atribute (int id, List<String>, String, float[], bool, char, DateTime, decimal, double|
 |🟠Constructor implicit / cu parametri (Deep Copy: vectori - List<String>)|
 |🟡Proprietati (functii accesor)|
 |🟢To String (List<String>, vector, atribute normale)|
 |🟣ICloneable (List<String>, vector), IComparable(|
-|🔵Operator INDEX (List<String>, vector), +(Vector),++, CAST
+|🔵Operator INDEX (List<String>, vector), +(Vector),++, CAST|
 
 ### Resurse Externe:
 📕[**Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)📕

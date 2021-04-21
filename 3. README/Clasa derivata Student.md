@@ -206,7 +206,7 @@ public float calculeazaMedie()
             }
             set
             {
-                if (value > 0 && value <= 10 && index >= 0 && index < note.Length)
+                if (note !=null && value > 0 && value <= 10 && index >= 0 && index < note.Length)
                     note[index] = value;
             }
         }
