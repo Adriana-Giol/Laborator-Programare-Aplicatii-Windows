@@ -15,7 +15,7 @@
 |   |      |      |       |       |
 |---|:-----|:-----|:------|:------|   
 |[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[✔️**Clasa Colectiv**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Colectiv.cs)|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|[**Form1**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form1.cs)|[**Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form2.cs)|
-|🔴Definire atribute (int id, List<String>, String, float[], bool, char, DateTime, decimal, double|🔴Definire atribute(String, List<Persoana>)|
+|🔴Definire atribute (int id, List<String>, String, float[], bool, char, DateTime, decimal, double|🔴Definire atribute(String, List<Persoana>)|🔴[**Transfer de Lista (Traversare + afisare) din Form1 -> Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/S4.%20Transfer%20de%20Liste%20intre%20Formulare.md)|
 |🟠Constructor implicit / cu parametri (Deep Copy: vectori - List<String>)|🟠Constructor implicit / cu parametri (Deep Copy: List<Persoana>)|
 |🟡Proprietati (functii accesor)|🟡Proprietati (functii accesor)|
 |🟢To String (List<String>, vector, atribute normale)|🟢To String (List<Persoana>)|
