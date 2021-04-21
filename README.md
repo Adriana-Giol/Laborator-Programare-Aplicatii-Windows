@@ -6,8 +6,10 @@
 💻[**Prof. Cotfas Liviu**](https://github.com/liviucotfas/ase-windows-applications-programming)💻
 
 ### Link-uri ajutatoare:
-⏰[**Date Time**](https://www.tutorialsteacher.com/csharp/csharp-datetime)⏰
+⏰[**Date Time**](https://www.tutorialsteacher.com/csharp/csharp-datetime)⏰</br>
 📋[**List**](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.addrange?view=net-5.0)📋
+[**How to initialize a list with constructor?**](https://stackoverflow.com/questions/9088585/how-to-initialize-a-list-with-constructor)
+[**How to initialize a list of strings List<string> with many string values**](https://stackoverflow.com/questions/3139118/how-to-initialize-a-list-of-strings-liststring-with-many-string-values)
 
 # [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
 
