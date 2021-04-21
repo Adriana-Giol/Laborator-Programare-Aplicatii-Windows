@@ -1,0 +1,11 @@
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\bin\Debug\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel.exe.config
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\bin\Debug\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\bin\Debug\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel.pdb
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\obj\Debug\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel.csprojAssemblyReference.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\obj\Debug\_2020___Subiect_2___Grupa_1048___Rezervari_Online_Hotel.Form1.resources
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\obj\Debug\_2020___Subiect_2___Grupa_1048___Rezervari_Online_Hotel.FormTreeView.resources
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\obj\Debug\_2020___Subiect_2___Grupa_1048___Rezervari_Online_Hotel.Properties.Resources.resources
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\obj\Debug\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel.csproj.GenerateResource.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\obj\Debug\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\obj\Debug\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel\obj\Debug\2020 - Subiect 2 - Grupa 1048 - Rezervari Online Hotel.pdb

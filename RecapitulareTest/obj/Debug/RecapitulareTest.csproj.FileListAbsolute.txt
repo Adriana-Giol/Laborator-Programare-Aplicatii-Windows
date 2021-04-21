@@ -1,0 +1,9 @@
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\RecapitulareTest\bin\Debug\RecapitulareTest.exe.config
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\RecapitulareTest\bin\Debug\RecapitulareTest.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\RecapitulareTest\bin\Debug\RecapitulareTest.pdb
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\RecapitulareTest\obj\Debug\RecapitulareTest.csprojAssemblyReference.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\RecapitulareTest\obj\Debug\RecapitulareTest.Properties.Resources.resources
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\RecapitulareTest\obj\Debug\RecapitulareTest.csproj.GenerateResource.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\RecapitulareTest\obj\Debug\RecapitulareTest.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\RecapitulareTest\obj\Debug\RecapitulareTest.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\RecapitulareTest\obj\Debug\RecapitulareTest.pdb

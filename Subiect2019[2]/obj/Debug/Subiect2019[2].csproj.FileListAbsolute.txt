@@ -1,0 +1,5 @@
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\Subiect2019[2]\obj\Debug\Subiect2019[2].csprojAssemblyReference.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\Subiect2019[2]\obj\Debug\Subiect2019_2_.Form1.resources
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\Subiect2019[2]\obj\Debug\Subiect2019_2_.Properties.Resources.resources
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\Subiect2019[2]\obj\Debug\Subiect2019[2].csproj.GenerateResource.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Programare-Aplicatii-Windows\Subiect2019[2]\obj\Debug\Subiect2019[2].csproj.CoreCompileInputs.cache
