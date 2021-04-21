@@ -1,15 +1,4 @@
 # Programare Aplicatii Windows 
-# RECAPITULARE TEST
-|   |      |      |       |       |
-|---|:-----|:-----|:------|:------|   
-|[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[✔️**Clasa Colectiv**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Colectiv.cs)|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|[**Form1**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form1.cs)|[**Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form2.cs)|
-|🔴Definire atribute (int id, List<String>, String, float[], bool, char, DateTime, decimal, double|🔴Definire atribute(String, List<Persoana>)|
-|🟠Constructor implicit / cu parametri (Deep Copy: vectori - List<String>)|🟠Constructor implicit / cu parametri (Deep Copy: List<Persoana>)|
-|🟡Proprietati (functii accesor)|🟡Proprietati (functii accesor)|
-|🟢To String (List<String>, vector, atribute normale)|🟢To String (List<Persoana>
-|🟣ICloneable (List<String>, vector), IComparable(String, int/float + string)|
-|🔵Operator INDEX (List<String>, vector), +(Vector),++, CAST|
-
 ### Resurse Externe:
 📕[**Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)📕
 📒[**Tutoring PAW - Partea II (varianta Traseu)**](https://www.youtube.com/watch?v=HjatpPQ2r-E&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3)📒
@@ -21,7 +10,18 @@
 📋[**List**](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.addrange?view=net-5.0)📋
 [**How to initialize a list with constructor?**](https://stackoverflow.com/questions/9088585/how-to-initialize-a-list-with-constructor)
 [**How to initialize a list of strings List<string> with many string values**](https://stackoverflow.com/questions/3139118/how-to-initialize-a-list-of-strings-liststring-with-many-string-values)
-
+ 
+# RECAPITULARE TEST
+|   |      |      |       |       |
+|---|:-----|:-----|:------|:------|   
+|[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[✔️**Clasa Colectiv**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Colectiv.cs)|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|[**Form1**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form1.cs)|[**Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form2.cs)|
+|🔴Definire atribute (int id, List<String>, String, float[], bool, char, DateTime, decimal, double|🔴Definire atribute(String, List<Persoana>)|
+|🟠Constructor implicit / cu parametri (Deep Copy: vectori - List<String>)|🟠Constructor implicit / cu parametri (Deep Copy: List<Persoana>)|
+|🟡Proprietati (functii accesor)|🟡Proprietati (functii accesor)|
+|🟢To String (List<String>, vector, atribute normale)|🟢To String (List<Persoana>)|
+|🟣ICloneable (List<String>, vector), IComparable(String, int/float + string)|🟣ICloneable (List<Persoana>|
+|🔵Operator INDEX (List<String>, vector), +(Vector),++, CAST|🔵Operator INDEX|
+ 
 # [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
 
 |   |      |
