@@ -7,7 +7,7 @@
 |🟠Constructor implicit / cu parametri (Deep Copy: vectori - List<String>)|🟠Constructor implicit / cu parametri (Deep Copy: List<Persoana>)|
 |🟡Proprietati (functii accesor)|🟡Proprietati (functii accesor)|
 |🟢To String (List<String>, vector, atribute normale)|🟢To String (List<Persoana>
-|🟣ICloneable (List<String>, vector), IComparable(|
+|🟣ICloneable (List<String>, vector), IComparable(String, int/float + string)|
 |🔵Operator INDEX (List<String>, vector), +(Vector),++, CAST|
 
 ### Resurse Externe:
