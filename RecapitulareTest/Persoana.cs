@@ -152,7 +152,7 @@ namespace RecapitulareTest
 
         //COMPARE TO - INT/FLOAT
 
-        public int CompareTo(object obj)
+   /*     public int CompareTo(object obj)
         {
             Persoana p = (Persoana)obj;
             if (this.salariu < p.salariu)
@@ -164,21 +164,9 @@ namespace RecapitulareTest
                 return 0; // daca fac compararea dupa un singur criteriu
             return string.Compare(this.localitate, p.localitate); // daca vreau sa fac compararea dupa 2 criterii
         }
+   */
 
-
-        //COMPARE TO - FLOAT (CU OPERATOR CAST IMPLEMENTAT ANTERIOR)
-        /* public int CompareTo(object obj)
-         {
-                 Persoana p = (Persoana)obj;  //facem CAST
-             if ((float)this > (float)s)
-                 return -1;
-             else
-                 if ((float)this < (float)s)
-                 return 1;
-             else
-                 return string.Compare(this.nume, s.nume);
-         }*/
-
+  
 
         //*******************************8.OPERATORI****************************************************************************************
 
