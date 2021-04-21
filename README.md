@@ -1,8 +1,8 @@
 # Programare Aplicatii Windows 
 # RECAPITULARE TEST
-|   |      |    |      |
-|---|:-----|----|------|   
-|[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|[**Form1**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form1.cs)|[**Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form2.cs)|
+|   |      |      |       |       |
+|---|:-----|:-----|:------|:------|   
+|[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[**Clasa Colectiv**]()|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|[**Form1**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form1.cs)|[**Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form2.cs)|
 |🔴Definire atribute (int id, List<String>, String, float[], bool, char, DateTime, decimal, double|
 |🟠Constructor implicit / cu parametri (Deep Copy: vectori - List<String>)|
 |🟡Proprietati (functii accesor)|
