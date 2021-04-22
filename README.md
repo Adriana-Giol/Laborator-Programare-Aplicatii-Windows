@@ -19,7 +19,7 @@
 |🟠Constructor implicit / cu parametri (Deep Copy: vectori - List<String>)|🟠Constructor implicit / cu parametri (Deep Copy: List<Persoana>)|
 |🟡Proprietati (functii accesor)|🟡Proprietati (functii accesor)|
 |🟢To String (List<String>, vector, atribute normale)|🟢To String (List<Persoana>)|
-|🟣ICloneable (List<String>, vector), IComparable(String, int/float + string)|🟣ICloneable (List<Persoana>|
+|🟣ICloneable (List<String>, vector), IComparable(String, int/float + string)|🟣ICloneable (List<Persoana>)|
 |🔵Operator INDEX (List<String>, vector), +(Vector),++, CAST|🔵Operator INDEX|
  
 # [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
