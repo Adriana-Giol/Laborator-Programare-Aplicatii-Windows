@@ -1,3 +1,5 @@
+
+
 # Programare Aplicatii Windows 
 ### Resurse Externe:
 📕[**Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)📕
@@ -8,8 +10,8 @@
 ### Link-uri ajutatoare:
 ⏰[**Date Time**](https://www.tutorialsteacher.com/csharp/csharp-datetime)⏰ 📣[**Compare String**](https://www.tutorialsteacher.com/articles/compare-strings-in-csharp)📣</br>
 📋[**List**](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.addrange?view=net-5.0)📋
-[**How to initialize a list with constructor?**](https://stackoverflow.com/questions/9088585/how-to-initialize-a-list-with-constructor)
-[**How to initialize a list of strings List<string> with many string values**](https://stackoverflow.com/questions/3139118/how-to-initialize-a-list-of-strings-liststring-with-many-string-values)
+📋[**How to initialize a list with constructor?**](https://stackoverflow.com/questions/9088585/how-to-initialize-a-list-with-constructor)📋
+📋[**How to initialize a list of strings List<string> with many string values**](https://stackoverflow.com/questions/3139118/how-to-initialize-a-list-of-strings-liststring-with-many-string-values)📋
   
 # [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
 
@@ -94,6 +96,7 @@
  
 # 📕Laborator 8 - [Windows Forms] - Grafic
 # 📗Laborator 9 - [Windows Forms] - TEST : RECAPITULARE TEST
+📝[**Subiect_PAW_2021 gr. 1046.pdf**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/files/6371355/Subiect_PAW_gr.1046.pdf)📝
 |   |      |      |       |       |
 |---|:-----|:-----|:------|:------|   
 |[✔️**Clasa Persoana**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Persoana.cs)|[✔️**Clasa Colectiv**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Colectiv.cs)|[✔️ **Clasa Program**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Program.cs)|[**Form1**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form1.cs)|[**Form2**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/RecapitulareTest/Form2.cs)|
