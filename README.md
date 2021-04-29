@@ -94,7 +94,16 @@
 |❌|🔵 TextBox Numeric - Eveniment Item Check|❌|
 
  
-# 📕Laborator 8 - [Windows Forms] - Grafic
+# 📕Laborator 8 - [Windows Forms] - Grafic 
+#### Graic de tip bare pentru date citite din fisier
+|   |      |       | 
+|---|:-----|:------|
+|[✔️**1. Form**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/8.%20Form1.md)|
+|🔴
+|🟡
+|🟢
+|
+
 # 📗Laborator 9 - [Windows Forms] - TEST : RECAPITULARE TEST
 📝[**Subiect_PAW_2021 gr. 1046.pdf**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/files/6371355/Subiect_PAW_gr.1046.pdf)📝
 |   |      |      |       |       |
