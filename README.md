@@ -2,10 +2,10 @@
 
 # Programare Aplicatii Windows 
 ### Resurse Externe:
-📕[**Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)📕
-📒[**Tutoring PAW - Partea II (varianta Traseu)**](https://www.youtube.com/watch?v=HjatpPQ2r-E&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3)📒
+📕[**Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)📕</br>
+📒[**Tutoring PAW - Partea II (varianta Traseu)**](https://www.youtube.com/watch?v=HjatpPQ2r-E&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3)📒</br>
 📘[**Tutoring PAW**](https://www.youtube.com/watch?v=pd5_tJWAl7g&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=6)📘</br>
-💻[**Prof. Cotfas Liviu**](https://github.com/liviucotfas/ase-windows-applications-programming)💻
+💻[**Prof. Cotfas Liviu**](https://github.com/liviucotfas/ase-windows-applications-programming)💻</br>
 
 ### Link-uri ajutatoare:
 ⏰[**Date Time**](https://www.tutorialsteacher.com/csharp/csharp-datetime)⏰ 📣[**Compare String**](https://www.tutorialsteacher.com/articles/compare-strings-in-csharp)📣</br>
