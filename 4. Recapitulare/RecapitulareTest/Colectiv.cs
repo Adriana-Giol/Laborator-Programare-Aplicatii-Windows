@@ -73,6 +73,12 @@ namespace RecapitulareTest
             }
         }
 
-        //8. OPERATOR+
+        //8. OPERATOR+ - LISTA 
+        public static Colectiv operator +(Colectiv colectiv, Persoana p)
+        {
+
+            colectiv.listaPersoane.Add(p);
+            return colectiv;
+        }
     }
 }
