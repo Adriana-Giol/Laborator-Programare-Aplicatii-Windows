@@ -17,7 +17,7 @@
 ✔️[**How to initialize a list with constructor?**](https://stackoverflow.com/questions/9088585/how-to-initialize-a-list-with-constructor)</br>
 ✔️[**How to initialize a list of strings List<string> with many string values**](https://stackoverflow.com/questions/3139118/how-to-initialize-a-list-of-strings-liststring-with-many-string-values)</br>
   
-  ### [📗Laborator 1 - [Console App] - Particularitatile Limbajului C#]()
+  ### [📗Laborator 1 - [Console App] - Particularitatile Limbajului C#](https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows/blob/main/1.%20Code/S01_Introducere/Program.cs)
 ✔️ Afisare si citire pentru aplicatii tip consola </br>
 ✔️ Vectori </br>
 ✔️ Shallow Copy / Deep Copy </br>
