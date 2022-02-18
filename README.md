@@ -3,8 +3,8 @@
 **Profesor coordonator: Cristian Ciurea**</br>
 **An universitar: 2020-2021**</br>
 **Grupa 1046 | Seria C**</br>
+[**Resurse Auxiliare**]()
 
-### Resurse Externe:
 📕[**Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)</br>
 📒[**Tutoring PAW - Partea II (varianta Traseu)**](https://www.youtube.com/watch?v=HjatpPQ2r-E&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3)</br>
 📘[**Tutoring PAW**](https://www.youtube.com/watch?v=pd5_tJWAl7g&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=6)</br>
