@@ -13,6 +13,26 @@
 📋[**How to initialize a list with constructor?**](https://stackoverflow.com/questions/9088585/how-to-initialize-a-list-with-constructor)📋
 📋[**How to initialize a list of strings List<string> with many string values**](https://stackoverflow.com/questions/3139118/how-to-initialize-a-list-of-strings-liststring-with-many-string-values)📋
   
+  ### 📕 3. Laborator 3 - Controale vizuale.
+**1. List View**
+**2. Tree View**
+**3. Data Grid View**
+
+### 📕 4. Laborator 4 - Citire / Scriere din / in fisiere.
+**1. Fisier Text**
+**2. Fisier Binar**
+**3. Fisier XML**
+
+### 📕 5. Laborator 5 - Validari de Date.
+**1. Error Provider**
+**2. Eveniment Item Check**
+
+### 📕 6. Laborator 6 - Grafic.
+### 📕 7. Laborator 7 - Acceleratori si Clipboard.
+### 📕 8. Laborator 8 - Print si Print Preview.
+### 📕 9. Laborator 9 - Crystal Reports.
+
+  
 # [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
 
 |   |      |
