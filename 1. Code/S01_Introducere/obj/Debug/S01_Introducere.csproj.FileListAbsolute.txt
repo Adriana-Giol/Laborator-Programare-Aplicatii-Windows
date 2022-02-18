@@ -1,0 +1,14 @@
+C:\Users\Adriana\Desktop\S01_Introducere\bin\Debug\S01_Introducere.exe.config
+C:\Users\Adriana\Desktop\S01_Introducere\bin\Debug\S01_Introducere.exe
+C:\Users\Adriana\Desktop\S01_Introducere\bin\Debug\S01_Introducere.pdb
+C:\Users\Adriana\Desktop\S01_Introducere\obj\Debug\S01_Introducere.csprojAssemblyReference.cache
+C:\Users\Adriana\Desktop\S01_Introducere\obj\Debug\S01_Introducere.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\S01_Introducere\obj\Debug\S01_Introducere.exe
+C:\Users\Adriana\Desktop\S01_Introducere\obj\Debug\S01_Introducere.pdb
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S01_Introducere\bin\Debug\S01_Introducere.exe.config
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S01_Introducere\bin\Debug\S01_Introducere.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S01_Introducere\bin\Debug\S01_Introducere.pdb
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S01_Introducere\obj\Debug\S01_Introducere.csprojAssemblyReference.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S01_Introducere\obj\Debug\S01_Introducere.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S01_Introducere\obj\Debug\S01_Introducere.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S01_Introducere\obj\Debug\S01_Introducere.pdb
