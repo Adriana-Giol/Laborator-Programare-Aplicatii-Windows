@@ -1,18 +1,36 @@
+# 💛 Programare Aplicatii Windows 
+**Laborator de Programare Aplicatii Windows in limbajul C#**</br>
+**Profesor coordonator: Cristian Ciurea**</br>
+**An universitar: 2020-2021**</br>
+**Grupa 1046 | Seria C**</br>
+[**Resurse Auxiliare**]()
 
-
-# Programare Aplicatii Windows 
-### Resurse Externe:
-📕[**Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)📕</br>
-📒[**Tutoring PAW - Partea II (varianta Traseu)**](https://www.youtube.com/watch?v=HjatpPQ2r-E&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3)📒</br>
-📘[**Tutoring PAW**](https://www.youtube.com/watch?v=pd5_tJWAl7g&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=6)📘</br>
-💻[**Prof. Cotfas Liviu**](https://github.com/liviucotfas/ase-windows-applications-programming)💻</br>
+📕[**Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)</br>
+📒[**Tutoring PAW - Partea II (varianta Traseu)**](https://www.youtube.com/watch?v=HjatpPQ2r-E&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3)</br>
+📘[**Tutoring PAW**](https://www.youtube.com/watch?v=pd5_tJWAl7g&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=6)</br>
+💻[**Prof. Cotfas Liviu**](https://github.com/liviucotfas/ase-windows-applications-programming)</br>
 
 ### Link-uri ajutatoare:
-⏰[**Date Time**](https://www.tutorialsteacher.com/csharp/csharp-datetime)⏰ 📣[**Compare String**](https://www.tutorialsteacher.com/articles/compare-strings-in-csharp)📣</br>
-📋[**List**](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.addrange?view=net-5.0)📋
-📋[**How to initialize a list with constructor?**](https://stackoverflow.com/questions/9088585/how-to-initialize-a-list-with-constructor)📋
-📋[**How to initialize a list of strings List<string> with many string values**](https://stackoverflow.com/questions/3139118/how-to-initialize-a-list-of-strings-liststring-with-many-string-values)📋
+✔️[**Date Time**](https://www.tutorialsteacher.com/csharp/csharp-datetime) </br>
+✔️[**Compare String**](https://www.tutorialsteacher.com/articles/compare-strings-in-csharp)</br>
+✔️[**List**](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.addrange?view=net-5.0)</br>
+✔️[**How to initialize a list with constructor?**](https://stackoverflow.com/questions/9088585/how-to-initialize-a-list-with-constructor)</br>
+✔️[**How to initialize a list of strings List<string> with many string values**](https://stackoverflow.com/questions/3139118/how-to-initialize-a-list-of-strings-liststring-with-many-string-values)</br>
   
+  ### [📗Laborator 1 - [Console App] - Particularitatile Limbajului C#](https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows/blob/main/1.%20Code/S01_Introducere/Program.cs)
+✔️ Afisare si citire pentru aplicatii tip consola </br>
+✔️ Vectori </br>
+✔️ Shallow Copy / Deep Copy </br>
+✔️ Matrice bi-dimensionala </br>
+
+  ### 📕 2. Laborator 2 - Clasa.Ierarhia de Clase
+ 
+|[✔️ **Clasa Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)|
+🔴Definire atribute|
+🟠Constructor implicit / cu parametri / de copiere|
+🟡Proprietati (functii accesor)|
+ 🟢Functie de afisare clasica / To String|
+
   ### 📕 3. Laborator 3 - Controale vizuale.
 **1. List View**
 **2. Tree View**
@@ -33,15 +51,7 @@
 ### 📕 9. Laborator 9 - Crystal Reports.
 
   
-# [📗Laborator 1 - [Console App] - Notiuni Introductive](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/1.%20Laborator1%20-%20Notiuni%20Introductive.md)
 
-|   |      |
-|---|:-----|
-|[✔️**Paticularitati limbaj C#**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Particularitatile%20limbajului%20C%23.md)|[✔️ **Clasa Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)|
-|🔴Afisare si citire pentru aplicatii tip consola| 🔴Definire atribute|
- 🟠Vector|🟠Constructor implicit / cu parametri / de copiere|
- 🟡Shallow Copy / Deep Copy|🟡Proprietati (functii accesor)|
- 🟢Matrice bi-dimensionala|🟢Functie de afisare clasica / To String|
 
 # [📗Laborator 2 - [Console App] - Ierarhie de clase[Zoo]](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/2.%20Laborator2%20-%20Ierarhie%20de%20clase%5BZoo%5D.md)
 
