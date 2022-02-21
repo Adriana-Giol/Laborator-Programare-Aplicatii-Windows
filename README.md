@@ -3,47 +3,32 @@
 **Profesor coordonator: Cristian Ciurea**</br>
 **An universitar: 2020-2021**</br>
 **Grupa 1046 | Seria C**</br>
-[**Resurse Auxiliare**]()
+[**Resurse Auxiliare**](https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows/blob/main/2.%20Documentatie/Resurse%20Auxiliare.md)
 
-📕[**Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)</br>
-📒[**Tutoring PAW - Partea II (varianta Traseu)**](https://www.youtube.com/watch?v=HjatpPQ2r-E&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3)</br>
-📘[**Tutoring PAW**](https://www.youtube.com/watch?v=pd5_tJWAl7g&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=6)</br>
-💻[**Prof. Cotfas Liviu**](https://github.com/liviucotfas/ase-windows-applications-programming)</br>
-
-### Link-uri ajutatoare:
-✔️[**Date Time**](https://www.tutorialsteacher.com/csharp/csharp-datetime) </br>
-✔️[**Compare String**](https://www.tutorialsteacher.com/articles/compare-strings-in-csharp)</br>
-✔️[**List**](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.addrange?view=net-5.0)</br>
-✔️[**How to initialize a list with constructor?**](https://stackoverflow.com/questions/9088585/how-to-initialize-a-list-with-constructor)</br>
-✔️[**How to initialize a list of strings List<string> with many string values**](https://stackoverflow.com/questions/3139118/how-to-initialize-a-list-of-strings-liststring-with-many-string-values)</br>
   
-  ### [📗Laborator 1 - [Console App] - Particularitatile Limbajului C#](https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows/blob/main/1.%20Code/S01_Introducere/Program.cs)
-✔️ Afisare si citire pentru aplicatii tip consola </br>
-✔️ Vectori </br>
-✔️ Shallow Copy / Deep Copy </br>
-✔️ Matrice bi-dimensionala </br>
+  ### [📗[Console App] Laborator 1 - Particularitatile Limbajului C#](https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows/blob/main/1.%20Code/S01_Introducere/Program.cs)
+✔️ **1. Afisare si citire pentru aplicatii tip consola** </br>
+✔️ **2. Vectori** </br>
+✔️ **3. Shallow Copy / Deep Copy** </br>
+✔️ **4. Matrice bi-dimensionala** </br>
 
-  ### 📕 2. Laborator 2 - Clasa.Ierarhia de Clase
+  ### [📕[Console App] Laborator 2 - Clasa.Ierarhia de Clase]()
  
-|[✔️ **Clasa Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)|
-🔴Definire atribute|
-🟠Constructor implicit / cu parametri / de copiere|
-🟡Proprietati (functii accesor)|
- 🟢Functie de afisare clasica / To String|
+   [✔️ **Clasa Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)</br>
 
-  ### 📕 3. Laborator 3 - Controale vizuale.
-**1. List View**
-**2. Tree View**
-**3. Data Grid View**
+  ### [📕[Console App + Windows Form App] Laborator 3 - Controale vizuale]()
+[**1. List View**]()</br>
+[**2. Tree View**]()</br>
+[**3. Data Grid View**]()</br>
 
 ### 📕 4. Laborator 4 - Citire / Scriere din / in fisiere.
-**1. Fisier Text**
-**2. Fisier Binar**
-**3. Fisier XML**
+[**1. Fisier Text**]()</br>
+[**2. Fisier Binar**]()</br>
+[**3. Fisier XML**]()</br>
 
 ### 📕 5. Laborator 5 - Validari de Date.
-**1. Error Provider**
-**2. Eveniment Item Check**
+[**1. Error Provider**]()</br>
+[**2. Eveniment Item Check**]()</br>
 
 ### 📕 6. Laborator 6 - Grafic.
 ### 📕 7. Laborator 7 - Acceleratori si Clipboard.
