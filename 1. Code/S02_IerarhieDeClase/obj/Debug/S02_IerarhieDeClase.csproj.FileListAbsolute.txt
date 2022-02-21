@@ -1,0 +1,7 @@
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S02_IerarhieDeClase\bin\Debug\S02_IerarhieDeClase.exe.config
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S02_IerarhieDeClase\bin\Debug\S02_IerarhieDeClase.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S02_IerarhieDeClase\bin\Debug\S02_IerarhieDeClase.pdb
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S02_IerarhieDeClase\obj\Debug\S02_IerarhieDeClase.csprojAssemblyReference.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S02_IerarhieDeClase\obj\Debug\S02_IerarhieDeClase.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S02_IerarhieDeClase\obj\Debug\S02_IerarhieDeClase.exe
+C:\Users\Adriana\Desktop\GitHub Local Repository\Laborator-Programare-Aplicatii-Windows\1. Code\S02_IerarhieDeClase\obj\Debug\S02_IerarhieDeClase.pdb
