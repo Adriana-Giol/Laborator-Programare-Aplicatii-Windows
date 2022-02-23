@@ -12,9 +12,11 @@
 ✔️ **3. Shallow Copy / Deep Copy** </br>
 ✔️ **4. Matrice bi-dimensionala** </br>
 
-  ### [📕[Console App] Laborator 2 - Clasa.Ierarhia de Clase]()
+  ### [📙[Console App] Laborator 2 - Clasa.Ierarhia de Clase](https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows/tree/main/1.%20Code/S02_IerarhieDeClase/Clase)
  
-   [✔️ **Clasa Student**](https://github.com/Adriana-Giol/Programare-Aplicatii-Windows/blob/main/3.%20README/Clasa%20Student.md)</br>
+   ✔️ **Clasa Movie (basic)** 
+    ~ [**Implementare**](https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows/blob/main/1.%20Code/S02_IerarhieDeClase/Clase/Movie.css) 
+    ~ [**Apelare**](https://github.com/Adriana-Giol/Laborator-Programare-Aplicatii-Windows/blob/main/1.%20Code/S02_IerarhieDeClase/Clase/Program.cs) </br>
 
   ### [📕[Console App + Windows Form App] Laborator 3 - Controale vizuale]()
 [**1. List View**]()</br>
