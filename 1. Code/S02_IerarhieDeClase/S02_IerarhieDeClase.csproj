@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Carte.cs" />
-    <Compile Include="Movie.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Clase\Carte.cs" />
+    <Compile Include="Clase\Movie.cs" />
+    <Compile Include="Clase\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
