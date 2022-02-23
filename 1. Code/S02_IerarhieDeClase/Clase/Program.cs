@@ -37,6 +37,20 @@ namespace S02_IerarhieDeClase
             movie1.afisare();
             movie2.afisare();
             movie3.afisare();
+
+            //Declarare vector de movie
+            Movie[] movieList = new Movie[3] { movie1, movie2, movie3 };
+
+            //Traversare cu afisare a vectorului
+            for(int i = 0; i <movieList.Length; i++)
+            {
+                //Metoda de afisare - CLASIC
+                movieList[i].afisare();
+
+                //Metoda de afisare - TO STRING
+                Console.WriteLine(movieList[i]);
+               
+            }
         }
     }
 }
